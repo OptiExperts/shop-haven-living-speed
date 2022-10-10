@@ -99,8 +99,8 @@
 {%- endif -%}
 {%- endfor -%}
 </style>
-{{ 'filter-menu.scss.css' | asset_url | stylesheet_tag }}
-{{ 'filter-menu.js' | asset_url | script_tag }}
+<link rel="stylesheet" data-href="{{ 'filter-menu.scss.css' | asset_url }}">
+<script type="lazyload2" data-src="{{ 'filter-menu.js' | asset_url }}"></script>
 {% endif %}
 {% endunless %}
 {% schema %}
