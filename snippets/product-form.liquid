@@ -1,0 +1,110 @@
+{% comment %}
+  Product form
+
+  @param product
+
+  @param selected_variant
+{% endcomment %}
+
+{% if is_product_modal and show_dcb %}
+  {% assign product_smart_buttons = true %}
+{% endif %}
+
+{% if is_product_modal == false and show_dcb %}
+  {% assign product_smart_buttons = true %}
+{% endif %}
+
+{% if is_cross_sell or selected_variant.available == false %}
+  {% assign product_smart_buttons = false %}
+{% endif %}
+
+{% assign product_form_class = '' %}
+{% if product_smart_buttons %}
+  {% assign product_form_class = 'smart-payment-enabled' %}
+{% endif %}
+
+{% if show_quantity == nil %}
+  {% assign show_quantity = true %}
+{% endif %}
+
+{% form 'product', product, class: product_form_class, data-product-form: '' %}
+  {% if product.has_only_default_variant %}
+    <input
+      name="id"
+      value="{{ product.variants[0].id }}"
+      type="hidden">
+  {% else %}
+    {%
+      render 'product-options',
+      product: product,
+      selected_variant: selected_variant,
+      style: settings.product_option_style
+    %}
+  {% endif %}
+
+  {% if settings.product_show_stock_level != 'hidden'%}
+     {%
+        render 'product-stock-level',
+        container: 'product_page',
+        variant: selected_variant,
+        inventory_quantity: selected_variant.inventory_quantity
+      %}
+  {% endif %}
+
+  {% assign oversized = false %}
+  {% for tag in product.tags %}
+   {% assign tag = tag | downcase %}
+   {% if tag == 'Oversized' %}
+     {% assign oversized = true %}
+   {% endif %}
+  {% endfor %}
+
+  {% if oversized %}
+  <h4 class="oversized-text">Oversized item. In store pick up only!</h4>
+  {% endif %}
+
+  <div class="product-form--atc">
+    {% if show_quantity %}
+      <div class="product-form--atc-qty form-fields--qty" data-quantity-wrapper>
+      <div class="qtydiv">
+        <div class="qtybox">
+          <span class="btnqty qtyminus icon icon-minus">-</span>
+          <input type="text" id="product-quantity-input" name="quantity" value="1" min="1" class="quantity-selector quantity-input form-field-input form-field-number form-field-filled" 
+          pattern="\d*"
+          aria-label="{{ 'general.general.quantity' | t }}"
+          data-quantity-input>
+          <span class="btnqty qtyplus icon icon-plus">+</span>
+        </div>
+      </div>
+    </div>
+    {% else %}
+      <input name="quantity" type="hidden" value="1">
+    {% endif %}
+
+    <button
+      class="product-form--atc-button {% unless selected_variant.available %}disabled{% endunless %}"
+      type="submit"
+      {% unless selected_variant.available %}disabled{% endunless %}
+      data-product-atc
+    >
+      <span class="atc-button--text" data-product-atc-text>
+        {% if selected_variant.available %}
+          {{ 'product.buttons.add_to_cart' | t }}
+        {% else %}
+          {{ 'product.buttons.sold_out' | t }}
+        {% endif %}
+      </span>
+      <span class="atc-button--icon">
+        {% render 'icon-library', id: 'icon-spinner' %}
+      </span>
+    </button>
+  </div>
+
+  {% if product_smart_buttons %}
+    {{ form | payment_button }}
+  {% endif %}
+
+  <div data-payment-terms-reference style="display: none;">
+    {{ form | payment_terms }}
+  </div>
+{% endform %}
