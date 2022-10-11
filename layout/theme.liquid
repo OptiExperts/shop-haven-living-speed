@@ -259,11 +259,10 @@
     <link data-href="{{ 'theme.css' | asset_url }}" rel="stylesheet" type="text/css" media="all" />
     {% if preload_styles == 'await_all_styles' %}
      
-      <link href="{{ 'momentum.css' | asset_url }}" rel="stylesheet" type="text/css" media="all" />
+      <link data-href="{{ 'momentum.css' | asset_url }}" rel="stylesheet" type="text/css" media="all" />
     {% elsif preload_styles == 'await_critical_styles' %}
       <link href="{{ 'theme-critical.css' | asset_url }}" rel="stylesheet" type="text/css" media="all" data-styles-above-fold />
       
-      <link rel="preload" as="style" href="{{ 'momentum.css' | asset_url }}">
     {% endif %}
 
     {% if settings.custom_scripts_head != blank %}
