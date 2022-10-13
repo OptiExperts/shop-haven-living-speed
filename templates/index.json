@@ -1,1 +1,305 @@
-{"sections":{"164493700892c0f803":{"type":"dynamic-featured-collection","blocks":{"cdacc096-067f-4f32-913a-4057907c8760":{"type":"title_card","disabled":true,"settings":{"banner_position":"last","banner_preheading":"Shop this","banner_heading":"Collection","banner_preheading_color":"#ffffff","banner_heading_color":"#ffffff","banner_overlay_color":"","banner_overlay_opacity":0}}},"block_order":["cdacc096-067f-4f32-913a-4057907c8760"],"settings":{"title":"Halloween Edit","subheading":"<p>Get all the feels of fall!<\/p>","heading_color":"#49443e","subheading_color":"#000000","background_color":"","section_spacing_desktop":36,"section_spacing_mobile":36,"collection":"halloween-edit","product_count":10,"product_layout":"slideshow","cta_text":"Shop collection","cta_button_style":"secondary","background_image_position":"center-middle","background_overlay_style":"none","background_overlay_color":"","background_overlay_opacity":50}},"1644937099874ed37b":{"type":"dynamic-collection-list","blocks":{"16449370993ff6d238-0":{"type":"collection","disabled":true,"settings":{"collection":"clothing","image":"shopify:\/\/shop_images\/IMG_3103.jpg","collection_label":"Women's Clothing","mobile_collection_label":"","subheading":"Styles that suit your everyday comfort to that perfect date night","cta":"SHOP NOW"}},"16449370993ff6d238-1":{"type":"collection","settings":{"collection":"the-home-collection","image":"shopify:\/\/shop_images\/photo1.png","collection_label":"Shop Home Collection","mobile_collection_label":"","subheading":"Freshen up your home with the latest decor and find your favorite kitchen essentials","cta":"SHOP NOW"}},"9cd28e6f-c634-406a-b90b-cc6d2c545e47":{"type":"collection","settings":{"collection":"fall-collection","image":"shopify:\/\/shop_images\/WhitewithBeigeStripes20x20DownSoSoftLinenPillow-4_1800x1800_fa6ae7b8-4d1d-4052-ab7c-5a26220cb80c.webp","collection_label":"Shop Fall Collection","mobile_collection_label":"","subheading":"Spruce up your home with simple touches and get all the feels of the season","cta":"SHOP NOW"}},"0eebffa9-1968-477d-be6a-3e53b82a132d":{"type":"collection","settings":{"collection":"purses-bags-1","collection_label":"","mobile_collection_label":"","subheading":"The smallest and the roomiest--we've got you covered with the best of the best!","cta":"Shop Now"}},"dc7a71db-bddc-4e8b-9f9b-2a7a070b7682":{"type":"collection","settings":{"collection":"jewelry","image":"shopify:\/\/shop_images\/Screen_Shot_2022-09-06_at_5.58.22_PM.png","collection_label":"Jewelry","mobile_collection_label":"Jewelry","subheading":"Simple + Timeless-Stand alone pieces or more layers for your everyday rotation","cta":"Shop Now"}},"39e59c3f-bdfc-4b94-91c4-7d9811769d71":{"type":"collection","disabled":true,"settings":{"collection":"furniture-1","image":"shopify:\/\/shop_images\/photo1.png","collection_label":"","mobile_collection_label":"","subheading":"","cta":""}},"9294b232-71ac-40d5-b834-6b803c657de5":{"type":"collection","settings":{"collection":"golden-hearth-collection","image":"shopify:\/\/shop_images\/710D0AE6-68C0-4DE3-93D0-E6114B631BAB.jpg","collection_label":"Autumn Hearth Collection","mobile_collection_label":"","subheading":"","cta":""}},"4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37":{"type":"collection","disabled":true,"settings":{"collection":"","image":"shopify:\/\/shop_images\/502CBC87-8DD3-42AD-95ED-BD8F6048A583.jpg","collection_label":"The Time to Gather Collection","mobile_collection_label":"The Time to Gather Collection","subheading":"","cta":"SHOP NOW"}},"232b6223-2bdc-4619-b513-e3c5afb9eddf":{"type":"collection","settings":{"collection":"time-to-gather-collection","collection_label":"","mobile_collection_label":"","subheading":"","cta":""}}},"block_order":["16449370993ff6d238-0","16449370993ff6d238-1","9cd28e6f-c634-406a-b90b-cc6d2c545e47","0eebffa9-1968-477d-be6a-3e53b82a132d","dc7a71db-bddc-4e8b-9f9b-2a7a070b7682","39e59c3f-bdfc-4b94-91c4-7d9811769d71","9294b232-71ac-40d5-b834-6b803c657de5","4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37","232b6223-2bdc-4619-b513-e3c5afb9eddf"],"settings":{"title":"","subheading":"","heading_color":"#49443e","subheading_color":"#000000","background_color":"#f7f6f1","section_spacing_desktop":50,"section_spacing_mobile":36,"col_heading_color":"#37393a","col_subheading_color":"#000000","col_cta_color":"#37515f","image_shape":"square","label_style":"label-style-heading","text_alignment":"center","desktop_collections_per_row":2,"display_desktop_collections":"2","desktop_collection_width":"desktop-full-width","layout_collection_max_width":1600,"desktop_collection_max_width":500,"mobile_collections_per_row":1,"display_mobile_collections":"0","mobile_collection_width":"mobile-full-width","mobile_collection_max_width":80}},"1645213842a28c8de8":{"type":"dynamic-image-with-text","blocks":{"1645213842cdc134a8-0":{"type":"image_with_text","settings":{"img_desktop":"shopify:\/\/shop_images\/StorefrontGreenKitchenDisplay.jpg","img_position_desktop":"left","img_width_desktop":45,"img_height_desktop":"custom","custom_height_desktop":425,"img_position_mobile":"top","img_height_mobile":"natural","custom_height_mobile":500,"content_background_color":"#ffffff","preheading":"Welcome Home to","preheading_color":"#80a44d","heading":"HAVEN LIVING","heading_color":"#4d4d4d","heading_size":"large","text_content":"<p>Every home should be a safe haven. At Haven Living, we want you to be able to create a beautiful home where your family and friends feel welcome and loved everyday. A place where they belong. <\/p>","text_content_color":"#4d4d4d","button_link":"shopify:\/\/pages\/about-us","button_text":"READ OUR STORY →","button_style":"signpost","signpost_color":"#37515f","block_link":false,"text_vertical_position":"middle","text_alignment":"center"}}},"block_order":["1645213842cdc134a8-0"],"settings":{"heading":"","subheading":"","background_color":"#f7f6f1","heading_color":"#4d4d4d","subheading_color":"#4d4d4d","section_spacing_top_desktop":50,"section_spacing_bottom_desktop":10,"section_spacing_top_mobile":36,"section_spacing_bottom_mobile":36,"content_spacing":0}},"1644937860f3b462ce":{"type":"dynamic-testimonials","blocks":{"164493786015248e13-0":{"type":"testimonial","settings":{"quote":"<p>“I am always greeted when I come into the store, everything is always so well put together. 10’s across the board!”<\/p>","show_quotations":false,"citation":"<p>DARCI SEVERINSEN<\/p>"}},"164493786015248e13-1":{"type":"testimonial","settings":{"quote":"<p>“The price point is perfect, the products carried here are unique. People want to come back to Haven because of their experience in the store.”<\/p>","show_quotations":false,"citation":"<p>KIM STREIT<\/p>"}},"8e450134-f1aa-4e5d-8917-0ade62214701":{"type":"testimonial","settings":{"quote":"<p>“I haven’t had a bad experience here. My kids have had Covid the past week and I have missed coming to Haven to see what new items are in store. Even my husband thinks it’s the greatest store ever!”<\/p>","show_quotations":true,"citation":"<p>KERRY FOGG<\/p>"}},"404189aa-3f24-4671-a0ae-23d81d9d9b73":{"type":"testimonial","settings":{"quote":"<p>“I love this store. I brought in a friend a couple weeks ago while she was visiting from out of town. Although our styles are very different, I knew she would find something she would love. We bought similar things, as well as completely different things. The girls working were very warm and welcoming.”<\/p>","show_quotations":true,"citation":"<p>AMBER FETTERS<\/p>"}}},"block_order":["164493786015248e13-0","164493786015248e13-1","8e450134-f1aa-4e5d-8917-0ade62214701","404189aa-3f24-4671-a0ae-23d81d9d9b73"],"settings":{"title":"","subtitle":"","title_color":"#4d4d4d","subtitle_color":"#4d4d4d","blockquote_color":"#ffffff","blockquote_citation_color":"#ffffff","background_color":"#37515f","testimonial_background_color":"","spacing_desktop":60,"spacing_mobile":36}},"1645738044ccbef772":{"type":"instafeed-custom","settings":{"insta_handle":"myhavenliving","preheading":"@myhavenliving","title":"Let’s get Social","text":"","html_area":"","section_spacing_desktop":50,"section_spacing_mobile":36}}},"order":["164493700892c0f803","1644937099874ed37b","1645213842a28c8de8","1644937860f3b462ce","1645738044ccbef772"]}
+{
+  "sections": {
+    "164493700892c0f803": {
+      "type": "dynamic-featured-collection",
+      "blocks": {
+        "cdacc096-067f-4f32-913a-4057907c8760": {
+          "type": "title_card",
+          "disabled": true,
+          "settings": {
+            "banner_position": "last",
+            "banner_preheading": "Shop this",
+            "banner_heading": "Collection",
+            "banner_preheading_color": "#ffffff",
+            "banner_heading_color": "#ffffff",
+            "banner_overlay_color": "",
+            "banner_overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "cdacc096-067f-4f32-913a-4057907c8760"
+      ],
+      "settings": {
+        "title": "Halloween SALE",
+        "subheading": "<p>Get all the feels of fall!<\/p>",
+        "heading_color": "#49443e",
+        "subheading_color": "#000000",
+        "background_color": "",
+        "section_spacing_desktop": 36,
+        "section_spacing_mobile": 36,
+        "collection": "halloween-edit",
+        "product_count": 10,
+        "product_layout": "slideshow",
+        "cta_text": "Shop collection",
+        "cta_button_style": "secondary",
+        "background_image_position": "center-middle",
+        "background_overlay_style": "none",
+        "background_overlay_color": "",
+        "background_overlay_opacity": 50
+      }
+    },
+    "1644937099874ed37b": {
+      "type": "dynamic-collection-list",
+      "blocks": {
+        "16449370993ff6d238-0": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "clothing",
+            "image": "shopify:\/\/shop_images\/IMG_3103.jpg",
+            "collection_label": "Women's Clothing",
+            "mobile_collection_label": "",
+            "subheading": "Styles that suit your everyday comfort to that perfect date night",
+            "cta": "SHOP NOW"
+          }
+        },
+        "16449370993ff6d238-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-home-collection",
+            "image": "shopify:\/\/shop_images\/photo1.png",
+            "collection_label": "Shop Home Collection",
+            "mobile_collection_label": "",
+            "subheading": "Freshen up your home with the latest decor and find your favorite kitchen essentials",
+            "cta": "SHOP NOW"
+          }
+        },
+        "9cd28e6f-c634-406a-b90b-cc6d2c545e47": {
+          "type": "collection",
+          "settings": {
+            "collection": "fall-collection",
+            "image": "shopify:\/\/shop_images\/WhitewithBeigeStripes20x20DownSoSoftLinenPillow-4_1800x1800_fa6ae7b8-4d1d-4052-ab7c-5a26220cb80c.webp",
+            "collection_label": "Shop Fall Collection",
+            "mobile_collection_label": "",
+            "subheading": "Spruce up your home with simple touches and get all the feels of the season",
+            "cta": "SHOP NOW"
+          }
+        },
+        "0eebffa9-1968-477d-be6a-3e53b82a132d": {
+          "type": "collection",
+          "settings": {
+            "collection": "purses-bags-1",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "The smallest and the roomiest--we've got you covered with the best of the best!",
+            "cta": "Shop Now"
+          }
+        },
+        "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682": {
+          "type": "collection",
+          "settings": {
+            "collection": "jewelry",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-06_at_5.58.22_PM.png",
+            "collection_label": "Jewelry",
+            "mobile_collection_label": "Jewelry",
+            "subheading": "Simple + Timeless-Stand alone pieces or more layers for your everyday rotation",
+            "cta": "Shop Now"
+          }
+        },
+        "39e59c3f-bdfc-4b94-91c4-7d9811769d71": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "furniture-1",
+            "image": "shopify:\/\/shop_images\/photo1.png",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "",
+            "cta": ""
+          }
+        },
+        "9294b232-71ac-40d5-b834-6b803c657de5": {
+          "type": "collection",
+          "settings": {
+            "collection": "golden-hearth-collection",
+            "image": "shopify:\/\/shop_images\/710D0AE6-68C0-4DE3-93D0-E6114B631BAB.jpg",
+            "collection_label": "Autumn Hearth Collection",
+            "mobile_collection_label": "",
+            "subheading": "",
+            "cta": ""
+          }
+        },
+        "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/502CBC87-8DD3-42AD-95ED-BD8F6048A583.jpg",
+            "collection_label": "The Time to Gather Collection",
+            "mobile_collection_label": "The Time to Gather Collection",
+            "subheading": "",
+            "cta": "SHOP NOW"
+          }
+        },
+        "232b6223-2bdc-4619-b513-e3c5afb9eddf": {
+          "type": "collection",
+          "settings": {
+            "collection": "time-to-gather-collection",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "",
+            "cta": ""
+          }
+        }
+      },
+      "block_order": [
+        "16449370993ff6d238-0",
+        "16449370993ff6d238-1",
+        "9cd28e6f-c634-406a-b90b-cc6d2c545e47",
+        "0eebffa9-1968-477d-be6a-3e53b82a132d",
+        "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682",
+        "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
+        "9294b232-71ac-40d5-b834-6b803c657de5",
+        "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
+        "232b6223-2bdc-4619-b513-e3c5afb9eddf"
+      ],
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "heading_color": "#49443e",
+        "subheading_color": "#000000",
+        "background_color": "#f7f6f1",
+        "section_spacing_desktop": 50,
+        "section_spacing_mobile": 36,
+        "col_heading_color": "#37393a",
+        "col_subheading_color": "#000000",
+        "col_cta_color": "#37515f",
+        "image_shape": "square",
+        "label_style": "label-style-heading",
+        "text_alignment": "center",
+        "desktop_collections_per_row": 2,
+        "display_desktop_collections": "2",
+        "desktop_collection_width": "desktop-full-width",
+        "layout_collection_max_width": 1600,
+        "desktop_collection_max_width": 500,
+        "mobile_collections_per_row": 1,
+        "display_mobile_collections": "0",
+        "mobile_collection_width": "mobile-full-width",
+        "mobile_collection_max_width": 80
+      }
+    },
+    "1645213842a28c8de8": {
+      "type": "dynamic-image-with-text",
+      "blocks": {
+        "1645213842cdc134a8-0": {
+          "type": "image_with_text",
+          "settings": {
+            "img_desktop": "shopify:\/\/shop_images\/StorefrontGreenKitchenDisplay.jpg",
+            "img_position_desktop": "left",
+            "img_width_desktop": 45,
+            "img_height_desktop": "custom",
+            "custom_height_desktop": 425,
+            "img_position_mobile": "top",
+            "img_height_mobile": "natural",
+            "custom_height_mobile": 500,
+            "content_background_color": "#ffffff",
+            "preheading": "Welcome Home to",
+            "preheading_color": "#80a44d",
+            "heading": "HAVEN LIVING",
+            "heading_color": "#4d4d4d",
+            "heading_size": "large",
+            "text_content": "<p>Every home should be a safe haven. At Haven Living, we want you to be able to create a beautiful home where your family and friends feel welcome and loved everyday. A place where they belong. <\/p>",
+            "text_content_color": "#4d4d4d",
+            "button_link": "shopify:\/\/pages\/about-us",
+            "button_text": "READ OUR STORY →",
+            "button_style": "signpost",
+            "signpost_color": "#37515f",
+            "block_link": false,
+            "text_vertical_position": "middle",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1645213842cdc134a8-0"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "background_color": "#f7f6f1",
+        "heading_color": "#4d4d4d",
+        "subheading_color": "#4d4d4d",
+        "section_spacing_top_desktop": 50,
+        "section_spacing_bottom_desktop": 10,
+        "section_spacing_top_mobile": 36,
+        "section_spacing_bottom_mobile": 36,
+        "content_spacing": 0
+      }
+    },
+    "1644937860f3b462ce": {
+      "type": "dynamic-testimonials",
+      "blocks": {
+        "164493786015248e13-0": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>“I am always greeted when I come into the store, everything is always so well put together. 10’s across the board!”<\/p>",
+            "show_quotations": false,
+            "citation": "<p>DARCI SEVERINSEN<\/p>"
+          }
+        },
+        "164493786015248e13-1": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>“The price point is perfect, the products carried here are unique. People want to come back to Haven because of their experience in the store.”<\/p>",
+            "show_quotations": false,
+            "citation": "<p>KIM STREIT<\/p>"
+          }
+        },
+        "8e450134-f1aa-4e5d-8917-0ade62214701": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>“I haven’t had a bad experience here. My kids have had Covid the past week and I have missed coming to Haven to see what new items are in store. Even my husband thinks it’s the greatest store ever!”<\/p>",
+            "show_quotations": true,
+            "citation": "<p>KERRY FOGG<\/p>"
+          }
+        },
+        "404189aa-3f24-4671-a0ae-23d81d9d9b73": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>“I love this store. I brought in a friend a couple weeks ago while she was visiting from out of town. Although our styles are very different, I knew she would find something she would love. We bought similar things, as well as completely different things. The girls working were very warm and welcoming.”<\/p>",
+            "show_quotations": true,
+            "citation": "<p>AMBER FETTERS<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164493786015248e13-0",
+        "164493786015248e13-1",
+        "8e450134-f1aa-4e5d-8917-0ade62214701",
+        "404189aa-3f24-4671-a0ae-23d81d9d9b73"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "title_color": "#4d4d4d",
+        "subtitle_color": "#4d4d4d",
+        "blockquote_color": "#ffffff",
+        "blockquote_citation_color": "#ffffff",
+        "background_color": "#37515f",
+        "testimonial_background_color": "",
+        "spacing_desktop": 60,
+        "spacing_mobile": 36
+      }
+    },
+    "1645738044ccbef772": {
+      "type": "instafeed-custom",
+      "settings": {
+        "insta_handle": "myhavenliving",
+        "preheading": "@myhavenliving",
+        "title": "Let’s get Social",
+        "text": "",
+        "html_area": "",
+        "section_spacing_desktop": 50,
+        "section_spacing_mobile": 36
+      }
+    }
+  },
+  "order": [
+    "164493700892c0f803",
+    "1644937099874ed37b",
+    "1645213842a28c8de8",
+    "1644937860f3b462ce",
+    "1645738044ccbef772"
+  ]
+}
