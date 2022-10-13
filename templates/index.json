@@ -67,6 +67,7 @@
         },
         "9cd28e6f-c634-406a-b90b-cc6d2c545e47": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "fall-collection",
             "image": "shopify:\/\/shop_images\/WhitewithBeigeStripes20x20DownSoSoftLinenPillow-4_1800x1800_fa6ae7b8-4d1d-4052-ab7c-5a26220cb80c.webp",
