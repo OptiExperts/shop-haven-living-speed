@@ -123,6 +123,7 @@
         },
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "image": "shopify:\/\/shop_images\/502CBC87-8DD3-42AD-95ED-BD8F6048A583.jpg",
