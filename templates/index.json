@@ -123,7 +123,6 @@
         },
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "",
             "image": "shopify:\/\/shop_images\/502CBC87-8DD3-42AD-95ED-BD8F6048A583.jpg",
@@ -142,6 +141,17 @@
             "subheading": "",
             "cta": ""
           }
+        },
+        "fa53ce1c-40dc-43c2-b360-fa5b53aa137f": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-farmhouse-kitchen-collection",
+            "image": "shopify:\/\/shop_images\/D717FD4D-5BF5-4ADA-82F4-CB098A98DE75.jpg",
+            "collection_label": "The Farmhouse Kitchen Collection",
+            "mobile_collection_label": "The Farmhouse Kitchen Collection",
+            "subheading": "",
+            "cta": "Shop Now"
+          }
         }
       },
       "block_order": [
@@ -153,7 +163,8 @@
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "9294b232-71ac-40d5-b834-6b803c657de5",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
-        "232b6223-2bdc-4619-b513-e3c5afb9eddf"
+        "232b6223-2bdc-4619-b513-e3c5afb9eddf",
+        "fa53ce1c-40dc-43c2-b360-fa5b53aa137f"
       ],
       "settings": {
         "title": "",
