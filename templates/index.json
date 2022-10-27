@@ -1,44 +1,5 @@
 {
   "sections": {
-    "164493700892c0f803": {
-      "type": "dynamic-featured-collection",
-      "blocks": {
-        "cdacc096-067f-4f32-913a-4057907c8760": {
-          "type": "title_card",
-          "disabled": true,
-          "settings": {
-            "banner_position": "last",
-            "banner_preheading": "Shop this",
-            "banner_heading": "Collection",
-            "banner_preheading_color": "#ffffff",
-            "banner_heading_color": "#ffffff",
-            "banner_overlay_color": "",
-            "banner_overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "cdacc096-067f-4f32-913a-4057907c8760"
-      ],
-      "settings": {
-        "title": "Halloween SALE",
-        "subheading": "<p><strong>Enjoy 30% OFF for Limited Time Only! <\/strong><\/p><p><strong>Code HAVENFALL30<\/strong><\/p><p><\/p>",
-        "heading_color": "#49443e",
-        "subheading_color": "#000000",
-        "background_color": "",
-        "section_spacing_desktop": 36,
-        "section_spacing_mobile": 36,
-        "collection": "halloween-edit",
-        "product_count": 10,
-        "product_layout": "slideshow",
-        "cta_text": "Shop collection",
-        "cta_button_style": "secondary",
-        "background_image_position": "center-middle",
-        "background_overlay_style": "none",
-        "background_overlay_color": "",
-        "background_overlay_opacity": 50
-      }
-    },
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
@@ -80,7 +41,7 @@
         "0eebffa9-1968-477d-be6a-3e53b82a132d": {
           "type": "collection",
           "settings": {
-            "collection": "purses-bags-1",
+            "collection": "garlands-wreaths",
             "collection_label": "",
             "mobile_collection_label": "",
             "subheading": "The smallest and the roomiest--we've got you covered with the best of the best!",
@@ -309,7 +270,6 @@
     }
   },
   "order": [
-    "164493700892c0f803",
     "1644937099874ed37b",
     "1645213842a28c8de8",
     "1644937860f3b462ce",
