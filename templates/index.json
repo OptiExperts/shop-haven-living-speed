@@ -20,9 +20,9 @@
           "settings": {
             "collection": "seasonal-holidays-christmas-ornaments",
             "image": "shopify:\/\/shop_images\/photo1.png",
-            "collection_label": "Shop Home Collection",
-            "mobile_collection_label": "",
-            "subheading": "Freshen up your home with the latest decor and find your favorite kitchen essentials",
+            "collection_label": "Christmas Ornaments",
+            "mobile_collection_label": "Christmas Ornaments",
+            "subheading": "Merry + Bright Trims for Your Tree",
             "cta": "SHOP NOW"
           }
         },
@@ -44,7 +44,7 @@
             "collection": "garlands-wreaths",
             "collection_label": "",
             "mobile_collection_label": "",
-            "subheading": "The smallest and the roomiest--we've got you covered with the best of the best!",
+            "subheading": "Deck your halls with that fresh cut look!",
             "cta": "Shop Now"
           }
         },
