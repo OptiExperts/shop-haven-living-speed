@@ -116,7 +116,7 @@
     "product_grid_show_star_ratings": false,
     "product_grid_show_second_image": true,
     "product_grid_emphasize_price": false,
-    "enable_product_card_spacing": false,
+    "enable_product_card_spacing": true,
     "product_grid_column_space_desktop": 15,
     "product_grid_image_style": "medium",
     "product_grid_image_crop": false,
@@ -143,6 +143,7 @@
     "pt_mobile_font": "nunito_sans_n4",
     "color_pt_small_box_bg": "#f7f6f1",
     "pt_ajax_selector": "#shopify-section-static-collection",
+    "pt_temporary_disable": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-28_at_10.57.18_PM.png",
     "product_enable_recently_viewed_products": true,
     "sections": {
