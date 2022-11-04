@@ -127,6 +127,7 @@
     "custom_scripts_footer": "$('.qtybox .btnqty').on('click', function(){\n  var qty = parseInt($(this).parent('.qtybox').find('.quantity-input').val());\n  if($(this).hasClass('qtyplus')) {\n    qty++;\n  } else if($(this).hasClass('qtyminus')) {\n    if(qty > 1) {\n      qty--;\n    }\n  }\n  qty = (isNaN(qty))?1:qty;\n  $(this).parent('.qtybox').find('.quantity-input').val(qty);\n});\n\n$('.modal-content').on('click', function(e) {\n  var qtyBox = $(e.target).parent('.qtybox');\n  var qtyInput = qtyBox.find('.quantity-input');\n  var qty = parseInt(qtyInput.val());\n  if($(e.target).hasClass('qtyplus')) {\n    qty++;\n  } else if($(e.target).hasClass('qtyminus')) {\n    if(qty > 1) {\n      qty--;\n    }\n  }\n  qty = (isNaN(qty))?1:qty;\n  qtyInput.val(qty);\n});",
     "pt_show_refine": false,
     "pt_force_dropdown": false,
+    "pt_float_filters": "false",
     "pt_refine_text": "Filter by",
     "color_pt_header_border": "rgba(0,0,0,0)",
     "color_pt_header_top_border": "#d9d9d9",
@@ -144,7 +145,9 @@
     "pt_mobile_font": "nunito_sans_n4",
     "color_pt_small_box_bg": "#f7f6f1",
     "pt_ajax_selector": "#shopify-section-static-collection",
-    "pt_temporary_disable": true,
+    "pt_show_only_on_collections": true,
+    "pt_clear_to_current_collection": true,
+    "pt_temporary_disable": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-28_at_10.57.18_PM.png",
     "product_enable_recently_viewed_products": true,
     "sections": {
