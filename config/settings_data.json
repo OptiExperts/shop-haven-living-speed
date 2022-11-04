@@ -144,7 +144,7 @@
     "pt_mobile_font": "nunito_sans_n4",
     "color_pt_small_box_bg": "#f7f6f1",
     "pt_ajax_selector": "#shopify-section-static-collection",
-    "pt_temporary_disable": false,
+    "pt_temporary_disable": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-28_at_10.57.18_PM.png",
     "product_enable_recently_viewed_products": true,
     "sections": {
