@@ -209,7 +209,7 @@
           "9ad421cf-1a53-4268-b83e-95c3844454e9"
         ],
         "settings": {
-          "mobile_alignment": "left",
+          "mobile_alignment": "centered",
           "payment_icons": false,
           "show_locale_selector": false,
           "show_currency_selector": false,
