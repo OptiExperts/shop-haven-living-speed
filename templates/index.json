@@ -40,11 +40,10 @@
         "0eebffa9-1968-477d-be6a-3e53b82a132d": {
           "type": "collection",
           "settings": {
-            "collection": "garlands-wreaths",
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-27_at_3.17.58_PM.png",
-            "collection_label": "Garlands + Wreaths",
-            "mobile_collection_label": "Garlands + Wreaths",
-            "subheading": "Deck your halls with that fresh cut look!",
+            "collection": "santas-workshop",
+            "collection_label": "Santa's Workshop",
+            "mobile_collection_label": "Deck your halls with our fan favorites!",
+            "subheading": "Deck your halls with our fan favorites!",
             "cta": "Shop Now"
           }
         },
