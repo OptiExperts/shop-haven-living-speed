@@ -529,7 +529,7 @@
   "shopify": {
     "checkout": {
       "order_summary": {
-        "shipping_default_value": "Shipping (FREE over $49)"
+        "shipping_default_value": "Shipping (FREE over $75)"
       }
     }
   }
