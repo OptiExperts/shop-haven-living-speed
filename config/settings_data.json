@@ -286,8 +286,8 @@
           "static-slideshow-0": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/Website_Main_Page_Desktop_1.png",
-              "mobile_background_image": "shopify:\/\/shop_images\/Haven_Moblie_2.png",
+              "background_image": "shopify:\/\/shop_images\/HAVEN_1.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/Haven_Moblie.png",
               "title": "",
               "text": "",
               "color": "#ffffff",
