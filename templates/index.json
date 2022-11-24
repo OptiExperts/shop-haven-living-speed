@@ -3,6 +3,17 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682": {
+          "type": "collection",
+          "settings": {
+            "collection": "jewelry",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-06_at_5.58.22_PM.png",
+            "collection_label": "Jewelry",
+            "mobile_collection_label": "Jewelry",
+            "subheading": "Simple + Timeless-Stand alone pieces or more layers for your everyday rotation",
+            "cta": "Shop Now"
+          }
+        },
         "16449370993ff6d238-0": {
           "type": "collection",
           "disabled": true,
@@ -13,6 +24,16 @@
             "mobile_collection_label": "",
             "subheading": "Styles that suit your everyday comfort to that perfect date night",
             "cta": "SHOP NOW"
+          }
+        },
+        "0eebffa9-1968-477d-be6a-3e53b82a132d": {
+          "type": "collection",
+          "settings": {
+            "collection": "santas-workshop",
+            "collection_label": "Santa's Workshop",
+            "mobile_collection_label": "Deck your halls with our fan favorites!",
+            "subheading": "Deck your halls with our fan favorites!",
+            "cta": "Shop Now"
           }
         },
         "16449370993ff6d238-1": {
@@ -35,27 +56,6 @@
             "mobile_collection_label": "",
             "subheading": "Spruce up your home with simple touches and get all the feels of the season",
             "cta": "SHOP NOW"
-          }
-        },
-        "0eebffa9-1968-477d-be6a-3e53b82a132d": {
-          "type": "collection",
-          "settings": {
-            "collection": "santas-workshop",
-            "collection_label": "Santa's Workshop",
-            "mobile_collection_label": "Deck your halls with our fan favorites!",
-            "subheading": "Deck your halls with our fan favorites!",
-            "cta": "Shop Now"
-          }
-        },
-        "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682": {
-          "type": "collection",
-          "settings": {
-            "collection": "jewelry",
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-06_at_5.58.22_PM.png",
-            "collection_label": "Jewelry",
-            "mobile_collection_label": "Jewelry",
-            "subheading": "Simple + Timeless-Stand alone pieces or more layers for your everyday rotation",
-            "cta": "Shop Now"
           }
         },
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71": {
@@ -116,11 +116,11 @@
         }
       },
       "block_order": [
+        "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682",
         "16449370993ff6d238-0",
+        "0eebffa9-1968-477d-be6a-3e53b82a132d",
         "16449370993ff6d238-1",
         "9cd28e6f-c634-406a-b90b-cc6d2c545e47",
-        "0eebffa9-1968-477d-be6a-3e53b82a132d",
-        "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682",
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "9294b232-71ac-40d5-b834-6b803c657de5",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
