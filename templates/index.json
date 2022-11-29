@@ -3,6 +3,17 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
+          "type": "collection",
+          "settings": {
+            "collection": "christmas-kitchen",
+            "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "Make the season magical",
+            "cta": "SHOP NOW"
+          }
+        },
         "16449370993ff6d238-1": {
           "type": "collection",
           "settings": {
@@ -113,20 +124,10 @@
             "subheading": "",
             "cta": "SHOP NOW"
           }
-        },
-        "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
-          "type": "collection",
-          "settings": {
-            "collection": "christmas-kitchen",
-            "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
-            "collection_label": "",
-            "mobile_collection_label": "",
-            "subheading": "Make the season magical",
-            "cta": ""
-          }
         }
       },
       "block_order": [
+        "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
         "16449370993ff6d238-1",
         "0eebffa9-1968-477d-be6a-3e53b82a132d",
         "232b6223-2bdc-4619-b513-e3c5afb9eddf",
@@ -136,8 +137,7 @@
         "16449370993ff6d238-0",
         "9cd28e6f-c634-406a-b90b-cc6d2c545e47",
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
-        "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
-        "a049214b-d9c7-45b0-9575-d0275f1b9ab9"
+        "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37"
       ],
       "settings": {
         "title": "",
