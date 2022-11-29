@@ -3,6 +3,58 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "16449370993ff6d238-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "winter-wonderland",
+            "collection_label": "Winter Wonderland",
+            "mobile_collection_label": "Whites + Woods + Pines",
+            "subheading": "Whites + Woods + Pines",
+            "cta": "SHOP NOW"
+          }
+        },
+        "0eebffa9-1968-477d-be6a-3e53b82a132d": {
+          "type": "collection",
+          "settings": {
+            "collection": "santas-workshop",
+            "collection_label": "Santa's Workshop",
+            "mobile_collection_label": "Deck your halls with our fan favorites!",
+            "subheading": "Deck your halls with our fan favorites!",
+            "cta": "Shop Now"
+          }
+        },
+        "232b6223-2bdc-4619-b513-e3c5afb9eddf": {
+          "type": "collection",
+          "settings": {
+            "collection": "time-to-gather-collection",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "",
+            "cta": ""
+          }
+        },
+        "fa53ce1c-40dc-43c2-b360-fa5b53aa137f": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-farmhouse-kitchen-collection",
+            "image": "shopify:\/\/shop_images\/D717FD4D-5BF5-4ADA-82F4-CB098A98DE75.jpg",
+            "collection_label": "The Farmhouse Kitchen Collection",
+            "mobile_collection_label": "The Farmhouse Kitchen Collection",
+            "subheading": "",
+            "cta": "Shop Now"
+          }
+        },
+        "9294b232-71ac-40d5-b834-6b803c657de5": {
+          "type": "collection",
+          "settings": {
+            "collection": "golden-hearth-collection",
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-10-26_at_2.48.32_PM.png",
+            "collection_label": "Autumn Hearth Collection",
+            "mobile_collection_label": "",
+            "subheading": "Classic Staples for your home and life",
+            "cta": ""
+          }
+        },
         "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682": {
           "type": "collection",
           "settings": {
@@ -23,26 +75,6 @@
             "collection_label": "Women's Clothing",
             "mobile_collection_label": "",
             "subheading": "Styles that suit your everyday comfort to that perfect date night",
-            "cta": "SHOP NOW"
-          }
-        },
-        "0eebffa9-1968-477d-be6a-3e53b82a132d": {
-          "type": "collection",
-          "settings": {
-            "collection": "santas-workshop",
-            "collection_label": "Santa's Workshop",
-            "mobile_collection_label": "Deck your halls with our fan favorites!",
-            "subheading": "Deck your halls with our fan favorites!",
-            "cta": "Shop Now"
-          }
-        },
-        "16449370993ff6d238-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "winter-wonderland",
-            "collection_label": "Winter Wonderland",
-            "mobile_collection_label": "Whites + Woods + Pines",
-            "subheading": "Whites + Woods + Pines",
             "cta": "SHOP NOW"
           }
         },
@@ -70,17 +102,6 @@
             "cta": ""
           }
         },
-        "9294b232-71ac-40d5-b834-6b803c657de5": {
-          "type": "collection",
-          "settings": {
-            "collection": "golden-hearth-collection",
-            "image": "shopify:\/\/shop_images\/Screenshot_2022-10-26_at_2.48.32_PM.png",
-            "collection_label": "Autumn Hearth Collection",
-            "mobile_collection_label": "",
-            "subheading": "Classic Staples for your home and life",
-            "cta": ""
-          }
-        },
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37": {
           "type": "collection",
           "disabled": true,
@@ -93,39 +114,30 @@
             "cta": "SHOP NOW"
           }
         },
-        "232b6223-2bdc-4619-b513-e3c5afb9eddf": {
+        "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
           "type": "collection",
           "settings": {
-            "collection": "time-to-gather-collection",
+            "collection": "christmas-kitchen",
+            "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
             "collection_label": "",
             "mobile_collection_label": "",
-            "subheading": "",
+            "subheading": "Make the season magical",
             "cta": ""
-          }
-        },
-        "fa53ce1c-40dc-43c2-b360-fa5b53aa137f": {
-          "type": "collection",
-          "settings": {
-            "collection": "the-farmhouse-kitchen-collection",
-            "image": "shopify:\/\/shop_images\/D717FD4D-5BF5-4ADA-82F4-CB098A98DE75.jpg",
-            "collection_label": "The Farmhouse Kitchen Collection",
-            "mobile_collection_label": "The Farmhouse Kitchen Collection",
-            "subheading": "",
-            "cta": "Shop Now"
           }
         }
       },
       "block_order": [
+        "16449370993ff6d238-1",
+        "0eebffa9-1968-477d-be6a-3e53b82a132d",
+        "232b6223-2bdc-4619-b513-e3c5afb9eddf",
+        "fa53ce1c-40dc-43c2-b360-fa5b53aa137f",
+        "9294b232-71ac-40d5-b834-6b803c657de5",
         "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682",
         "16449370993ff6d238-0",
-        "0eebffa9-1968-477d-be6a-3e53b82a132d",
-        "16449370993ff6d238-1",
         "9cd28e6f-c634-406a-b90b-cc6d2c545e47",
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
-        "9294b232-71ac-40d5-b834-6b803c657de5",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
-        "232b6223-2bdc-4619-b513-e3c5afb9eddf",
-        "fa53ce1c-40dc-43c2-b360-fa5b53aa137f"
+        "a049214b-d9c7-45b0-9575-d0275f1b9ab9"
       ],
       "settings": {
         "title": "",
