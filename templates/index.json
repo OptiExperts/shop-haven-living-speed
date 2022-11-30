@@ -3,6 +3,16 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "bdc6dd47-e988-4213-8035-9b47d43fe9ba": {
+          "type": "collection",
+          "settings": {
+            "collection": "christmas-stockings",
+            "collection_label": "Christmas Stockings",
+            "mobile_collection_label": "Christmas Stockings",
+            "subheading": "Get 30% off Stockings + Holders this week!",
+            "cta": "SHOP NOW"
+          }
+        },
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
           "type": "collection",
           "settings": {
@@ -36,6 +46,7 @@
         },
         "232b6223-2bdc-4619-b513-e3c5afb9eddf": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "time-to-gather-collection",
             "collection_label": "",
@@ -46,6 +57,7 @@
         },
         "fa53ce1c-40dc-43c2-b360-fa5b53aa137f": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "the-farmhouse-kitchen-collection",
             "image": "shopify:\/\/shop_images\/D717FD4D-5BF5-4ADA-82F4-CB098A98DE75.jpg",
@@ -57,6 +69,7 @@
         },
         "9294b232-71ac-40d5-b834-6b803c657de5": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "golden-hearth-collection",
             "image": "shopify:\/\/shop_images\/Screenshot_2022-10-26_at_2.48.32_PM.png",
@@ -68,6 +81,7 @@
         },
         "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "jewelry",
             "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-06_at_5.58.22_PM.png",
@@ -127,6 +141,7 @@
         }
       },
       "block_order": [
+        "bdc6dd47-e988-4213-8035-9b47d43fe9ba",
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
         "16449370993ff6d238-1",
         "0eebffa9-1968-477d-be6a-3e53b82a132d",
