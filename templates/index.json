@@ -138,6 +138,16 @@
             "subheading": "",
             "cta": "SHOP NOW"
           }
+        },
+        "31e9ae39-881b-49f9-a6c9-4b04a64f2877": {
+          "type": "collection",
+          "settings": {
+            "collection": "seasonal-holidays-christmas-ornaments",
+            "collection_label": "Christmas Orn",
+            "mobile_collection_label": "",
+            "subheading": "",
+            "cta": ""
+          }
         }
       },
       "block_order": [
@@ -152,7 +162,8 @@
         "16449370993ff6d238-0",
         "9cd28e6f-c634-406a-b90b-cc6d2c545e47",
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
-        "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37"
+        "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
+        "31e9ae39-881b-49f9-a6c9-4b04a64f2877"
       ],
       "settings": {
         "title": "",
