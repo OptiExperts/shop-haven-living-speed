@@ -15,6 +15,7 @@
         },
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "christmas-kitchen",
             "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
@@ -46,7 +47,6 @@
         },
         "232b6223-2bdc-4619-b513-e3c5afb9eddf": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "time-to-gather-collection",
             "collection_label": "",
@@ -141,6 +141,7 @@
         },
         "31e9ae39-881b-49f9-a6c9-4b04a64f2877": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "seasonal-holidays-christmas-ornaments",
             "collection_label": "Christmas Orn",
