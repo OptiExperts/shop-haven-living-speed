@@ -149,6 +149,16 @@
             "subheading": "",
             "cta": ""
           }
+        },
+        "9d66a142-b6df-446c-ab78-8fd30ca93cc0": {
+          "type": "collection",
+          "settings": {
+            "collection": "gnomes",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "",
+            "cta": ""
+          }
         }
       },
       "block_order": [
@@ -164,7 +174,8 @@
         "9cd28e6f-c634-406a-b90b-cc6d2c545e47",
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
-        "31e9ae39-881b-49f9-a6c9-4b04a64f2877"
+        "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
+        "9d66a142-b6df-446c-ab78-8fd30ca93cc0"
       ],
       "settings": {
         "title": "",
