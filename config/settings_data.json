@@ -179,7 +179,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Sign up for 10% off your first purchase!",
-              "text": "",
+              "text": "<p><\/p>",
               "button_style": "primary"
             }
           },
@@ -214,7 +214,7 @@
           "show_locale_selector": false,
           "show_currency_selector": false,
           "additional_menu": "",
-          "small_text": ""
+          "small_text": "<p><\/p>"
         }
       },
       "static-announcement": {
@@ -286,15 +286,15 @@
           "static-slideshow-0": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/Website_Main_Page_Desktop_5.png",
-              "mobile_background_image": "shopify:\/\/shop_images\/Website_Mobile_2.png",
+              "background_image": "shopify:\/\/shop_images\/Website_Main_Page_Desktop_6.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/Website_Mobile_3.png",
               "title": "",
               "text": "",
               "color": "#ffffff",
-              "link": "shopify:\/\/collections\/christmas-ornaments",
+              "link": "shopify:\/\/collections\/oh-holy-night-collection",
               "text_alignment": "center",
               "button_one_label": "",
-              "button_one_link": "shopify:\/\/collections\/christmas-ornaments",
+              "button_one_link": "shopify:\/\/collections\/oh-holy-night-collection",
               "button_one_style": "primary",
               "button_two_label": "",
               "button_two_link": "",
@@ -450,8 +450,8 @@
           "search_quick_links": "",
           "menu": "products",
           "small_promo_heading": "Free in-store pickup available!",
-          "small_promo_text": "",
-          "small_promo_text_mobile": "",
+          "small_promo_text": "<p><\/p>",
+          "small_promo_text_mobile": "<p><\/p>",
           "small_promo_link": "",
           "small_promo_icon": "icon-store",
           "image": "shopify:\/\/shop_images\/noun-store-1333778.png",

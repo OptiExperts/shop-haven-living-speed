@@ -3,6 +3,16 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "b15f9e8c-dd67-47e6-85e1-6fdf6647ba22": {
+          "type": "collection",
+          "settings": {
+            "collection": "christmas-ornaments",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "30% off all Christmas Ornaments",
+            "cta": "SHOP NOW"
+          }
+        },
         "80508745-9430-40ef-8f83-1e03b7e90bb4": {
           "type": "collection",
           "settings": {
@@ -10,16 +20,6 @@
             "collection_label": "",
             "mobile_collection_label": "",
             "subheading": "Add the perfect touch of green!",
-            "cta": "SHOP NOW"
-          }
-        },
-        "bdc6dd47-e988-4213-8035-9b47d43fe9ba": {
-          "type": "collection",
-          "settings": {
-            "collection": "christmas-stockings",
-            "collection_label": "Christmas Stockings",
-            "mobile_collection_label": "Christmas Stockings",
-            "subheading": "Get 30% off Stockings + Holders",
             "cta": "SHOP NOW"
           }
         },
@@ -35,16 +35,6 @@
             "cta": "SHOP NOW"
           }
         },
-        "9d66a142-b6df-446c-ab78-8fd30ca93cc0": {
-          "type": "collection",
-          "settings": {
-            "collection": "gnomes",
-            "collection_label": "Christmas Gnomes",
-            "mobile_collection_label": "",
-            "subheading": "30% off Christmas Gnomes",
-            "cta": "SHOP NOW"
-          }
-        },
         "16449370993ff6d238-1": {
           "type": "collection",
           "settings": {
@@ -52,6 +42,26 @@
             "collection_label": "Winter Wonderland",
             "mobile_collection_label": "Whites + Woods + Pines",
             "subheading": "Whites + Woods + Pines",
+            "cta": "SHOP NOW"
+          }
+        },
+        "bdc6dd47-e988-4213-8035-9b47d43fe9ba": {
+          "type": "collection",
+          "settings": {
+            "collection": "christmas-stockings",
+            "collection_label": "Christmas Stockings",
+            "mobile_collection_label": "Christmas Stockings",
+            "subheading": "Get 30% off Stockings + Holders",
+            "cta": "SHOP NOW"
+          }
+        },
+        "9d66a142-b6df-446c-ab78-8fd30ca93cc0": {
+          "type": "collection",
+          "settings": {
+            "collection": "gnomes",
+            "collection_label": "Christmas Gnomes",
+            "mobile_collection_label": "",
+            "subheading": "30% off Christmas Gnomes",
             "cta": "SHOP NOW"
           }
         },
@@ -67,6 +77,7 @@
         },
         "232b6223-2bdc-4619-b513-e3c5afb9eddf": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "time-to-gather-collection",
             "collection_label": "",
@@ -172,11 +183,12 @@
         }
       },
       "block_order": [
+        "b15f9e8c-dd67-47e6-85e1-6fdf6647ba22",
         "80508745-9430-40ef-8f83-1e03b7e90bb4",
-        "bdc6dd47-e988-4213-8035-9b47d43fe9ba",
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
-        "9d66a142-b6df-446c-ab78-8fd30ca93cc0",
         "16449370993ff6d238-1",
+        "bdc6dd47-e988-4213-8035-9b47d43fe9ba",
+        "9d66a142-b6df-446c-ab78-8fd30ca93cc0",
         "0eebffa9-1968-477d-be6a-3e53b82a132d",
         "232b6223-2bdc-4619-b513-e3c5afb9eddf",
         "fa53ce1c-40dc-43c2-b360-fa5b53aa137f",
