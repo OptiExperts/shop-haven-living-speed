@@ -3,13 +3,23 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "80508745-9430-40ef-8f83-1e03b7e90bb4": {
+          "type": "collection",
+          "settings": {
+            "collection": "garlands-wreaths-1",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "Add the perfect touch of green!",
+            "cta": "SHOP NOW"
+          }
+        },
         "bdc6dd47-e988-4213-8035-9b47d43fe9ba": {
           "type": "collection",
           "settings": {
             "collection": "christmas-stockings",
             "collection_label": "Christmas Stockings",
             "mobile_collection_label": "Christmas Stockings",
-            "subheading": "Get 30% off Stockings + Holders this week!",
+            "subheading": "Get 30% off Stockings + Holders",
             "cta": "SHOP NOW"
           }
         },
@@ -22,6 +32,16 @@
             "collection_label": "",
             "mobile_collection_label": "",
             "subheading": "Christmastime favorites for the kitchen!",
+            "cta": "SHOP NOW"
+          }
+        },
+        "9d66a142-b6df-446c-ab78-8fd30ca93cc0": {
+          "type": "collection",
+          "settings": {
+            "collection": "gnomes",
+            "collection_label": "Christmas Gnomes",
+            "mobile_collection_label": "",
+            "subheading": "30% off Christmas Gnomes",
             "cta": "SHOP NOW"
           }
         },
@@ -149,21 +169,13 @@
             "subheading": "",
             "cta": ""
           }
-        },
-        "9d66a142-b6df-446c-ab78-8fd30ca93cc0": {
-          "type": "collection",
-          "settings": {
-            "collection": "gnomes",
-            "collection_label": "",
-            "mobile_collection_label": "",
-            "subheading": "",
-            "cta": ""
-          }
         }
       },
       "block_order": [
+        "80508745-9430-40ef-8f83-1e03b7e90bb4",
         "bdc6dd47-e988-4213-8035-9b47d43fe9ba",
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
+        "9d66a142-b6df-446c-ab78-8fd30ca93cc0",
         "16449370993ff6d238-1",
         "0eebffa9-1968-477d-be6a-3e53b82a132d",
         "232b6223-2bdc-4619-b513-e3c5afb9eddf",
@@ -174,8 +186,7 @@
         "9cd28e6f-c634-406a-b90b-cc6d2c545e47",
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
-        "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
-        "9d66a142-b6df-446c-ab78-8fd30ca93cc0"
+        "31e9ae39-881b-49f9-a6c9-4b04a64f2877"
       ],
       "settings": {
         "title": "",
@@ -239,7 +250,7 @@
       ],
       "settings": {
         "heading": "",
-        "subheading": "",
+        "subheading": "<p><\/p>",
         "background_color": "#f7f6f1",
         "heading_color": "#4d4d4d",
         "subheading_color": "#4d4d4d",
@@ -294,7 +305,7 @@
       ],
       "settings": {
         "title": "",
-        "subtitle": "",
+        "subtitle": "<p><\/p>",
         "title_color": "#4d4d4d",
         "subtitle_color": "#4d4d4d",
         "blockquote_color": "#ffffff",
