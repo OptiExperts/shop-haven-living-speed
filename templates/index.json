@@ -3,6 +3,16 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "556369cd-30af-4f34-b9c5-0c9571c3f41d": {
+          "type": "collection",
+          "settings": {
+            "collection": "day-1-hats-gloves-socks",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "30% off for our 12 days of gifting-today only!",
+            "cta": "SHOP NOW"
+          }
+        },
         "3f77d69a-aa89-45fb-8e8f-66626e796734": {
           "type": "collection",
           "settings": {
@@ -194,6 +204,7 @@
         }
       },
       "block_order": [
+        "556369cd-30af-4f34-b9c5-0c9571c3f41d",
         "3f77d69a-aa89-45fb-8e8f-66626e796734",
         "b15f9e8c-dd67-47e6-85e1-6fdf6647ba22",
         "80508745-9430-40ef-8f83-1e03b7e90bb4",
