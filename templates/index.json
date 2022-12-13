@@ -3,6 +3,17 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "3f77d69a-aa89-45fb-8e8f-66626e796734": {
+          "type": "collection",
+          "settings": {
+            "collection": "oh-holy-night-collection",
+            "image": "shopify:\/\/shop_images\/Untitled_design_6_05b9ed35-9bac-491a-b7b9-7613687318c3.png",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "Create a home of love and reflection.",
+            "cta": "SHOP NOW"
+          }
+        },
         "b15f9e8c-dd67-47e6-85e1-6fdf6647ba22": {
           "type": "collection",
           "settings": {
@@ -183,6 +194,7 @@
         }
       },
       "block_order": [
+        "3f77d69a-aa89-45fb-8e8f-66626e796734",
         "b15f9e8c-dd67-47e6-85e1-6fdf6647ba22",
         "80508745-9430-40ef-8f83-1e03b7e90bb4",
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
