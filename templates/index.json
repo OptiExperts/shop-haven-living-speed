@@ -3,13 +3,35 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "1be6f91c-9c87-4e89-8344-6f3338c4a66e": {
+          "type": "collection",
+          "settings": {
+            "collection": "day-4-clothing",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "30% off- today only for 12 Days of Giting!",
+            "cta": "SHOP NOW"
+          }
+        },
         "556369cd-30af-4f34-b9c5-0c9571c3f41d": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "purses-bags-1",
             "collection_label": "",
             "mobile_collection_label": "",
             "subheading": "12 days of gifting: 30% off -today only!",
+            "cta": "SHOP NOW"
+          }
+        },
+        "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
+          "type": "collection",
+          "settings": {
+            "collection": "christmas-kitchen",
+            "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "Christmastime favorites for the kitchen!",
             "cta": "SHOP NOW"
           }
         },
@@ -41,18 +63,6 @@
             "collection_label": "",
             "mobile_collection_label": "",
             "subheading": "Add the perfect touch of green!",
-            "cta": "SHOP NOW"
-          }
-        },
-        "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "christmas-kitchen",
-            "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
-            "collection_label": "",
-            "mobile_collection_label": "",
-            "subheading": "Christmastime favorites for the kitchen!",
             "cta": "SHOP NOW"
           }
         },
@@ -204,11 +214,12 @@
         }
       },
       "block_order": [
+        "1be6f91c-9c87-4e89-8344-6f3338c4a66e",
         "556369cd-30af-4f34-b9c5-0c9571c3f41d",
+        "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
         "3f77d69a-aa89-45fb-8e8f-66626e796734",
         "b15f9e8c-dd67-47e6-85e1-6fdf6647ba22",
         "80508745-9430-40ef-8f83-1e03b7e90bb4",
-        "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
         "16449370993ff6d238-1",
         "bdc6dd47-e988-4213-8035-9b47d43fe9ba",
         "9d66a142-b6df-446c-ab78-8fd30ca93cc0",
