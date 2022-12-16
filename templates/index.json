@@ -3,6 +3,16 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "0a9bd3b3-5d78-444b-b648-87d726fc9ac3": {
+          "type": "collection",
+          "settings": {
+            "collection": "12-days-of-gifting-day-4-beauty-books",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "30% off Today Only for 12 Days of Gifting!",
+            "cta": "SHOP NOW"
+          }
+        },
         "1be6f91c-9c87-4e89-8344-6f3338c4a66e": {
           "type": "collection",
           "disabled": true,
@@ -212,19 +222,10 @@
             "subheading": "",
             "cta": ""
           }
-        },
-        "0a9bd3b3-5d78-444b-b648-87d726fc9ac3": {
-          "type": "collection",
-          "settings": {
-            "collection": "12-days-of-gifting-day-4-beauty-books",
-            "collection_label": "",
-            "mobile_collection_label": "",
-            "subheading": "30% off Today Only for 12 Days of Gifting!",
-            "cta": "SHOP NOW"
-          }
         }
       },
       "block_order": [
+        "0a9bd3b3-5d78-444b-b648-87d726fc9ac3",
         "1be6f91c-9c87-4e89-8344-6f3338c4a66e",
         "556369cd-30af-4f34-b9c5-0c9571c3f41d",
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
@@ -243,8 +244,7 @@
         "9cd28e6f-c634-406a-b90b-cc6d2c545e47",
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
-        "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
-        "0a9bd3b3-5d78-444b-b648-87d726fc9ac3"
+        "31e9ae39-881b-49f9-a6c9-4b04a64f2877"
       ],
       "settings": {
         "title": "",
