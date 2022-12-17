@@ -3,8 +3,19 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "ad33184b-23c9-420a-a861-ec8a04f70277": {
+          "type": "collection",
+          "settings": {
+            "collection": "day-5-kitchen-goods",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "30% off Today Only for 12 Days of Gifting!",
+            "cta": "SHOP NOW"
+          }
+        },
         "0a9bd3b3-5d78-444b-b648-87d726fc9ac3": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "12-days-of-gifting-day-4-beauty-books",
             "collection_label": "",
@@ -225,6 +236,7 @@
         }
       },
       "block_order": [
+        "ad33184b-23c9-420a-a861-ec8a04f70277",
         "0a9bd3b3-5d78-444b-b648-87d726fc9ac3",
         "1be6f91c-9c87-4e89-8344-6f3338c4a66e",
         "556369cd-30af-4f34-b9c5-0c9571c3f41d",
