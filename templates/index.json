@@ -3,8 +3,19 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "22146223-ab13-4036-aa4e-a972c66aa2d3": {
+          "type": "collection",
+          "settings": {
+            "collection": "day-1-hats-gloves-socks",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "30% off Today Only for 12 Days of Gifting!",
+            "cta": "SHOP NOW"
+          }
+        },
         "ad33184b-23c9-420a-a861-ec8a04f70277": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "day-5-kitchen-goods",
             "collection_label": "",
@@ -236,6 +247,7 @@
         }
       },
       "block_order": [
+        "22146223-ab13-4036-aa4e-a972c66aa2d3",
         "ad33184b-23c9-420a-a861-ec8a04f70277",
         "0a9bd3b3-5d78-444b-b648-87d726fc9ac3",
         "1be6f91c-9c87-4e89-8344-6f3338c4a66e",
