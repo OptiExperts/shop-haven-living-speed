@@ -222,7 +222,7 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "30% off Christmas items, taken at checkout! + Free Shipping on orders over $75",
+          "announcement_text": "40% off Christmas items, taken at checkout! + Free Shipping on orders over $75",
           "announcement_text_mobile": "Free Shipping on orders over $75",
           "announcement_link": "",
           "announcement_color": "#ffffff",
