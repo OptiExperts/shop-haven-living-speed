@@ -5,6 +5,7 @@
       "blocks": {
         "22146223-ab13-4036-aa4e-a972c66aa2d3": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "day-1-hats-gloves-socks",
             "collection_label": "",
@@ -48,7 +49,6 @@
         },
         "556369cd-30af-4f34-b9c5-0c9571c3f41d": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "purses-bags-1",
             "collection_label": "",
