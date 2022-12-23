@@ -16,7 +16,6 @@
         },
         "ad33184b-23c9-420a-a861-ec8a04f70277": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "day-5-kitchen-goods",
             "collection_label": "",
@@ -38,6 +37,7 @@
         },
         "1be6f91c-9c87-4e89-8344-6f3338c4a66e": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "day-4-clothing",
             "collection_label": "",
