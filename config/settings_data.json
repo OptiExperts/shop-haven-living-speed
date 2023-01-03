@@ -286,7 +286,7 @@
           "static-slideshow-0": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/DESKTOP.png",
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_1.png",
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE.png",
               "title": "",
               "text": "",
