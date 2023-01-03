@@ -226,7 +226,7 @@
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
-          "announcement_background": "#2c6361"
+          "announcement_background": "#4a8792"
         }
       },
       "static-minimal-header": {
@@ -286,8 +286,8 @@
           "static-slideshow-0": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/DESKTOP_1.png",
-              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE.png",
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_2.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_1.png",
               "title": "",
               "text": "",
               "color": "#ffffff",
