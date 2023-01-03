@@ -222,11 +222,11 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "50% off Sitewide, no code needed + Free Shipping on orders over $150",
+          "announcement_text": "Free Shipping on orders over $150",
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
-          "announcement_background": "#b62727"
+          "announcement_background": "#27b68d"
         }
       },
       "static-minimal-header": {
