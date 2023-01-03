@@ -250,6 +250,16 @@
             "subheading": "",
             "cta": ""
           }
+        },
+        "84309de9-d5f9-432e-bf97-89bdce8f5da1": {
+          "type": "collection",
+          "settings": {
+            "collection": "purses-bags-1",
+            "collection_label": "Purses + Bags",
+            "mobile_collection_label": "",
+            "subheading": "Bags, wallets and purses to fit all the things for a day trip or just running errands",
+            "cta": "SHOP NOW"
+          }
         }
       },
       "block_order": [
@@ -274,7 +284,8 @@
         "9cd28e6f-c634-406a-b90b-cc6d2c545e47",
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
-        "31e9ae39-881b-49f9-a6c9-4b04a64f2877"
+        "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
+        "84309de9-d5f9-432e-bf97-89bdce8f5da1"
       ],
       "settings": {
         "title": "",
