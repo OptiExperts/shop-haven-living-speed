@@ -65,12 +65,13 @@
             "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
             "collection_label": "",
             "mobile_collection_label": "",
-            "subheading": "Favorites for the kitchen!",
+            "subheading": "Timeless kitchen favorites for staying cozy in the new year.",
             "cta": "SHOP NOW"
           }
         },
         "3f77d69a-aa89-45fb-8e8f-66626e796734": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "oh-holy-night-collection",
             "image": "shopify:\/\/shop_images\/Untitled_design_6_05b9ed35-9bac-491a-b7b9-7613687318c3.png",
@@ -82,6 +83,7 @@
         },
         "b15f9e8c-dd67-47e6-85e1-6fdf6647ba22": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "christmas-ornaments",
             "collection_label": "",
@@ -92,6 +94,7 @@
         },
         "80508745-9430-40ef-8f83-1e03b7e90bb4": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "garlands-wreaths-1",
             "collection_label": "",
@@ -102,6 +105,7 @@
         },
         "16449370993ff6d238-1": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "winter-wonderland",
             "collection_label": "Winter Wonderland",
@@ -112,6 +116,7 @@
         },
         "bdc6dd47-e988-4213-8035-9b47d43fe9ba": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "christmas-stockings",
             "collection_label": "Christmas Stockings",
@@ -122,6 +127,7 @@
         },
         "9d66a142-b6df-446c-ab78-8fd30ca93cc0": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "gnomes",
             "collection_label": "Christmas Gnomes",
@@ -132,6 +138,7 @@
         },
         "0eebffa9-1968-477d-be6a-3e53b82a132d": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "santas-workshop",
             "collection_label": "Santa's Workshop",
@@ -177,7 +184,6 @@
         },
         "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "jewelry",
             "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-06_at_5.58.22_PM.png",
@@ -189,7 +195,6 @@
         },
         "16449370993ff6d238-0": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "clothing",
             "image": "shopify:\/\/shop_images\/IMG_3103.jpg",
