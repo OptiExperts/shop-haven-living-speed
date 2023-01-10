@@ -225,8 +225,8 @@
           "announcement_text": "Free Shipping on orders over $150",
           "announcement_text_mobile": "",
           "announcement_link": "",
-          "announcement_color": "#ffffff",
-          "announcement_background": "#4a8792"
+          "announcement_color": "#000000",
+          "announcement_background": "#fadde0"
         }
       },
       "static-minimal-header": {
