@@ -3,6 +3,16 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "2bdc8b13-500e-4208-a662-aba3afa2bc1c": {
+          "type": "collection",
+          "settings": {
+            "collection": "for-all-seasons-collection",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "",
+            "cta": ""
+          }
+        },
         "ccbc32b1-ecaf-459e-917a-6bc778a56516": {
           "type": "collection",
           "settings": {
@@ -274,6 +284,7 @@
         }
       },
       "block_order": [
+        "2bdc8b13-500e-4208-a662-aba3afa2bc1c",
         "ccbc32b1-ecaf-459e-917a-6bc778a56516",
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
         "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682",
