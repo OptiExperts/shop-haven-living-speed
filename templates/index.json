@@ -3,6 +3,16 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "5069ff93-6926-401f-ac62-61b545016740": {
+          "type": "collection",
+          "settings": {
+            "collection": "casual-cozy-collection",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "Cozy and Casual Living Accents",
+            "cta": "SHOP NOW"
+          }
+        },
         "5b1ef889-901b-4008-a336-948655583d27": {
           "type": "collection",
           "settings": {
@@ -292,19 +302,10 @@
             "subheading": "Bags, wallets and purses to fit all the things for a day trip or just running errands",
             "cta": "SHOP NOW"
           }
-        },
-        "5069ff93-6926-401f-ac62-61b545016740": {
-          "type": "collection",
-          "settings": {
-            "collection": "casual-cozy-collection",
-            "collection_label": "",
-            "mobile_collection_label": "",
-            "subheading": "Cozy and Casual Living Accents",
-            "cta": "SHOP NOW"
-          }
         }
       },
       "block_order": [
+        "5069ff93-6926-401f-ac62-61b545016740",
         "5b1ef889-901b-4008-a336-948655583d27",
         "2bdc8b13-500e-4208-a662-aba3afa2bc1c",
         "ccbc32b1-ecaf-459e-917a-6bc778a56516",
@@ -330,8 +331,7 @@
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
         "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
-        "84309de9-d5f9-432e-bf97-89bdce8f5da1",
-        "5069ff93-6926-401f-ac62-61b545016740"
+        "84309de9-d5f9-432e-bf97-89bdce8f5da1"
       ],
       "settings": {
         "title": "",
