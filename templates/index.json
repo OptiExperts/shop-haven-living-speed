@@ -35,6 +35,7 @@
         },
         "ccbc32b1-ecaf-459e-917a-6bc778a56516": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "heart-of-gold-collection",
             "collection_label": "",
@@ -302,6 +303,16 @@
             "subheading": "Bags, wallets and purses to fit all the things for a day trip or just running errands",
             "cta": "SHOP NOW"
           }
+        },
+        "703316fb-d81b-4bcf-bc23-e519f200c5f1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bee-happy-collection",
+            "collection_label": "Bee Happy Collection",
+            "mobile_collection_label": "",
+            "subheading": "All our charming bee finds in one place",
+            "cta": "SHOP NOW"
+          }
         }
       },
       "block_order": [
@@ -331,7 +342,8 @@
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
         "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
-        "84309de9-d5f9-432e-bf97-89bdce8f5da1"
+        "84309de9-d5f9-432e-bf97-89bdce8f5da1",
+        "703316fb-d81b-4bcf-bc23-e519f200c5f1"
       ],
       "settings": {
         "title": "",
