@@ -3,6 +3,16 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "703316fb-d81b-4bcf-bc23-e519f200c5f1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bee-happy-collection",
+            "collection_label": "Bee Happy Collection",
+            "mobile_collection_label": "",
+            "subheading": "All our charming bee finds in one place",
+            "cta": "SHOP NOW"
+          }
+        },
         "5069ff93-6926-401f-ac62-61b545016740": {
           "type": "collection",
           "settings": {
@@ -23,8 +33,20 @@
             "cta": "SHOP NOW"
           }
         },
+        "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
+          "type": "collection",
+          "settings": {
+            "collection": "christmas-kitchen",
+            "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "Timeless kitchen favorites for staying cozy in the new year.",
+            "cta": "SHOP NOW"
+          }
+        },
         "2bdc8b13-500e-4208-a662-aba3afa2bc1c": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "for-all-seasons-collection",
             "collection_label": "",
@@ -44,17 +66,6 @@
             "cta": "SHOP NOW"
           }
         },
-        "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
-          "type": "collection",
-          "settings": {
-            "collection": "christmas-kitchen",
-            "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
-            "collection_label": "",
-            "mobile_collection_label": "",
-            "subheading": "Timeless kitchen favorites for staying cozy in the new year.",
-            "cta": "SHOP NOW"
-          }
-        },
         "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682": {
           "type": "collection",
           "disabled": true,
@@ -69,6 +80,7 @@
         },
         "16449370993ff6d238-0": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "clothing",
             "image": "shopify:\/\/shop_images\/IMG_3103.jpg",
@@ -303,24 +315,15 @@
             "subheading": "Bags, wallets and purses to fit all the things for a day trip or just running errands",
             "cta": "SHOP NOW"
           }
-        },
-        "703316fb-d81b-4bcf-bc23-e519f200c5f1": {
-          "type": "collection",
-          "settings": {
-            "collection": "bee-happy-collection",
-            "collection_label": "Bee Happy Collection",
-            "mobile_collection_label": "",
-            "subheading": "All our charming bee finds in one place",
-            "cta": "SHOP NOW"
-          }
         }
       },
       "block_order": [
+        "703316fb-d81b-4bcf-bc23-e519f200c5f1",
         "5069ff93-6926-401f-ac62-61b545016740",
         "5b1ef889-901b-4008-a336-948655583d27",
+        "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
         "2bdc8b13-500e-4208-a662-aba3afa2bc1c",
         "ccbc32b1-ecaf-459e-917a-6bc778a56516",
-        "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
         "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682",
         "16449370993ff6d238-0",
         "22146223-ab13-4036-aa4e-a972c66aa2d3",
@@ -342,8 +345,7 @@
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
         "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
-        "84309de9-d5f9-432e-bf97-89bdce8f5da1",
-        "703316fb-d81b-4bcf-bc23-e519f200c5f1"
+        "84309de9-d5f9-432e-bf97-89bdce8f5da1"
       ],
       "settings": {
         "title": "",
