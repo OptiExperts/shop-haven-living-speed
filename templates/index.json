@@ -3,6 +3,16 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "950bacd0-604e-4305-a308-5d516ada3a19": {
+          "type": "collection",
+          "settings": {
+            "collection": "timeless-and-true",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "These timeless will ring true for all seasons",
+            "cta": "SHOP NOW"
+          }
+        },
         "703316fb-d81b-4bcf-bc23-e519f200c5f1": {
           "type": "collection",
           "settings": {
@@ -318,6 +328,7 @@
         }
       },
       "block_order": [
+        "950bacd0-604e-4305-a308-5d516ada3a19",
         "703316fb-d81b-4bcf-bc23-e519f200c5f1",
         "5069ff93-6926-401f-ac62-61b545016740",
         "5b1ef889-901b-4008-a336-948655583d27",
