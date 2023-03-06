@@ -45,6 +45,7 @@
         },
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "christmas-kitchen",
             "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
