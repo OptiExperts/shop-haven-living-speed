@@ -35,6 +35,7 @@
         },
         "5b1ef889-901b-4008-a336-948655583d27": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "fresh-start-collection",
             "collection_label": "",
@@ -326,6 +327,17 @@
             "subheading": "Bags, wallets and purses to fit all the things for a day trip or just running errands",
             "cta": "SHOP NOW"
           }
+        },
+        "ef72841c-2adc-4ae5-b6e3-ef4af4a4313b": {
+          "type": "collection",
+          "settings": {
+            "collection": "spring-fever-collection",
+            "image": "shopify:\/\/shop_images\/MOBILE_28.png",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "Set the scene for spring with these spring accents",
+            "cta": ""
+          }
         }
       },
       "block_order": [
@@ -357,7 +369,8 @@
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
         "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
-        "84309de9-d5f9-432e-bf97-89bdce8f5da1"
+        "84309de9-d5f9-432e-bf97-89bdce8f5da1",
+        "ef72841c-2adc-4ae5-b6e3-ef4af4a4313b"
       ],
       "settings": {
         "title": "",
