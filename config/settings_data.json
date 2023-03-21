@@ -286,15 +286,15 @@
           "static-slideshow-0": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/DESKTOP_13.png",
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_14_37c9998e-fcb6-4372-97cc-00d70bd00d52.png",
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_31.png",
               "title": "",
               "text": "",
               "color": "#ffffff",
-              "link": "shopify:\/\/collections\/spring-fever-collection",
+              "link": "shopify:\/\/collections\/dreaming-of-spring",
               "text_alignment": "center",
               "button_one_label": "",
-              "button_one_link": "shopify:\/\/collections\/spring-fever-collection",
+              "button_one_link": "shopify:\/\/collections\/dreaming-of-spring",
               "button_one_style": "primary",
               "button_two_label": "",
               "button_two_link": "",
