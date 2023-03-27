@@ -198,10 +198,10 @@
       "special_instructions": "Special instructions",
       "cart_empty": "Your cart is empty",
       "stock_limit": "You can only have {{ quantity }} {{ title }} in your cart.",
-      "tax_and_shipping": "FREE Shipping (Orders $150 and over)",
-      "taxes_and_shipping_policy_at_checkout_html": "FREE Shipping (Orders $150 and over)",
-      "taxes_included_but_shipping_at_checkout": "FREE Shipping (Orders $150 and over)",
-      "taxes_included_and_shipping_policy_html": "FREE Shipping (Orders $150 and over)"
+      "tax_and_shipping": "FREE Shipping (Orders $75 and over)",
+      "taxes_and_shipping_policy_at_checkout_html": "FREE Shipping (Orders $75 and over)",
+      "taxes_included_but_shipping_at_checkout": "FREE Shipping (Orders $75 and over)",
+      "taxes_included_and_shipping_policy_html": "FREE Shipping (Orders $75 and over)"
     },
     "shipping": {
       "calculate_shipping": "Calculate Shipping",
