@@ -222,7 +222,7 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "Free Shipping on orders over $150",
+          "announcement_text": "Free Shipping on orders over $75",
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
