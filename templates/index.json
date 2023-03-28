@@ -16,6 +16,7 @@
         },
         "950bacd0-604e-4305-a308-5d516ada3a19": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "timeless-and-true",
             "collection_label": "",
@@ -57,7 +58,6 @@
         },
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "christmas-kitchen",
             "image": "shopify:\/\/shop_images\/brooke-lark-F_IST8bKxhI-unsplash.jpg",
