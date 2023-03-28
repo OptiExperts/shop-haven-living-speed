@@ -286,15 +286,96 @@
           "static-slideshow-0": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/DESKTOP_15.png",
-              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_33.png",
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_17.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_41.png",
               "title": "",
               "text": "",
               "color": "#ffffff",
-              "link": "shopify:\/\/collections\/dreaming-of-spring",
+              "link": "shopify:\/\/collections\/easter-basket-fillers-for-all",
               "text_alignment": "center",
               "button_one_label": "",
-              "button_one_link": "shopify:\/\/collections\/dreaming-of-spring",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "button_three_label": "",
+              "button_three_link": "",
+              "button_three_style": "primary",
+              "button_four_label": "",
+              "button_four_link": "",
+              "button_four_style": "primary",
+              "overlay_style": "none",
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
+          "e405a1f5-00e1-46c4-9a14-1d25b9776948": {
+            "type": "slide",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_16.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_41.png",
+              "title": "",
+              "text": "",
+              "color": "#FFFFFF",
+              "link": "shopify:\/\/collections\/easter-basket-fillers-for-all",
+              "text_alignment": "center",
+              "button_one_label": "",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "button_three_label": "",
+              "button_three_link": "",
+              "button_three_style": "primary",
+              "button_four_label": "",
+              "button_four_link": "",
+              "button_four_style": "primary",
+              "overlay_style": "none",
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
+          "e816ef37-721c-4c35-bbd6-6742ab684310": {
+            "type": "slide",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_19.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_41.png",
+              "title": "",
+              "text": "",
+              "color": "#FFFFFF",
+              "link": "shopify:\/\/collections\/easter-basket-fillers-for-all",
+              "text_alignment": "center",
+              "button_one_label": "",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "button_three_label": "",
+              "button_three_link": "",
+              "button_three_style": "primary",
+              "button_four_label": "",
+              "button_four_link": "",
+              "button_four_style": "primary",
+              "overlay_style": "none",
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
+          "e1966b60-4b63-4b2b-801c-4ad58f4f87cb": {
+            "type": "slide",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_18.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_41.png",
+              "title": "",
+              "text": "",
+              "color": "#FFFFFF",
+              "link": "shopify:\/\/collections\/easter-basket-fillers-for-all",
+              "text_alignment": "center",
+              "button_one_label": "",
+              "button_one_link": "",
               "button_one_style": "primary",
               "button_two_label": "",
               "button_two_link": "",
@@ -312,12 +393,15 @@
           }
         },
         "block_order": [
-          "static-slideshow-0"
+          "static-slideshow-0",
+          "e405a1f5-00e1-46c4-9a14-1d25b9776948",
+          "e816ef37-721c-4c35-bbd6-6742ab684310",
+          "e1966b60-4b63-4b2b-801c-4ad58f4f87cb"
         ],
         "settings": {
           "show_slideshow": true,
           "enable_autoplay": true,
-          "autoplay_duration": 8,
+          "autoplay_duration": 6,
           "slideshow_height": "original"
         }
       },
