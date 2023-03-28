@@ -3,6 +3,16 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "10dcd4d1-c893-4bc0-94d2-7fa04dec9df4": {
+          "type": "collection",
+          "settings": {
+            "collection": "dreaming-of-spring",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "One stop Easter entertaining shopping!",
+            "cta": "SHOP NOW"
+          }
+        },
         "ef72841c-2adc-4ae5-b6e3-ef4af4a4313b": {
           "type": "collection",
           "settings": {
@@ -338,19 +348,10 @@
             "subheading": "Bags, wallets and purses to fit all the things for a day trip or just running errands",
             "cta": "SHOP NOW"
           }
-        },
-        "10dcd4d1-c893-4bc0-94d2-7fa04dec9df4": {
-          "type": "collection",
-          "settings": {
-            "collection": "dreaming-of-spring",
-            "collection_label": "",
-            "mobile_collection_label": "",
-            "subheading": "One stop Easter entertaining shopping!",
-            "cta": "SHOP NOW"
-          }
         }
       },
       "block_order": [
+        "10dcd4d1-c893-4bc0-94d2-7fa04dec9df4",
         "ef72841c-2adc-4ae5-b6e3-ef4af4a4313b",
         "950bacd0-604e-4305-a308-5d516ada3a19",
         "703316fb-d81b-4bcf-bc23-e519f200c5f1",
@@ -380,8 +381,7 @@
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
         "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
-        "84309de9-d5f9-432e-bf97-89bdce8f5da1",
-        "10dcd4d1-c893-4bc0-94d2-7fa04dec9df4"
+        "84309de9-d5f9-432e-bf97-89bdce8f5da1"
       ],
       "settings": {
         "title": "",
