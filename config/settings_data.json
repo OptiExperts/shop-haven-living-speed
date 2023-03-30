@@ -285,6 +285,7 @@
         "blocks": {
           "static-slideshow-0": {
             "type": "slide",
+            "disabled": true,
             "settings": {
               "background_image": "shopify:\/\/shop_images\/DESKTOP_17.png",
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_41.png",
@@ -401,7 +402,7 @@
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_42.png",
               "title": "",
               "text": "",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "",
               "text_alignment": "center",
               "button_one_label": "",
