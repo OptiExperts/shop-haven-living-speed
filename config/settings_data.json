@@ -222,11 +222,11 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "Free Shipping on orders over $75",
+          "announcement_text": "20% off EVERYTHING for a limited time + Free Shipping on orders over $75",
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
-          "announcement_background": "#668943"
+          "announcement_background": "#80a44d"
         }
       },
       "static-minimal-header": {
@@ -317,7 +317,7 @@
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_41.png",
               "title": "",
               "text": "",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "shopify:\/\/collections\/easter-basket-fillers-for-all",
               "text_alignment": "center",
               "button_one_label": "",
@@ -344,7 +344,7 @@
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_41.png",
               "title": "",
               "text": "",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "shopify:\/\/collections\/easter-basket-fillers-for-all",
               "text_alignment": "center",
               "button_one_label": "",
@@ -371,7 +371,7 @@
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_41.png",
               "title": "",
               "text": "",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "shopify:\/\/collections\/easter-basket-fillers-for-all",
               "text_alignment": "center",
               "button_one_label": "",
