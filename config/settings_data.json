@@ -222,7 +222,7 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "20% off sale through the weekend! Free Shipping on orders over $75",
+          "announcement_text": "Free Shipping on orders over $75",
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
@@ -457,7 +457,7 @@
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_42.png",
               "title": "",
               "text": "",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "",
               "text_alignment": "center",
               "button_one_label": "",
