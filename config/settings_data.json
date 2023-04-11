@@ -452,6 +452,7 @@
           },
           "462bac7f-55a0-464a-8187-f072c544d188": {
             "type": "slide",
+            "disabled": true,
             "settings": {
               "background_image": "shopify:\/\/shop_images\/DESKTOP_20.png",
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_42.png",
