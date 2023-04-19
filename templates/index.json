@@ -3,8 +3,29 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "703316fb-d81b-4bcf-bc23-e519f200c5f1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bee-happy-collection",
+            "collection_label": "Bee Happy Collection",
+            "mobile_collection_label": "",
+            "subheading": "All our charming bee finds in one place",
+            "cta": "SHOP NOW"
+          }
+        },
+        "5069ff93-6926-401f-ac62-61b545016740": {
+          "type": "collection",
+          "settings": {
+            "collection": "casual-cozy-collection",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "Cozy and Casual Living Accents",
+            "cta": "SHOP NOW"
+          }
+        },
         "788105b4-7ae6-4a0f-ab1d-e86629da9608": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "easter-basket-fillers-for-all",
             "collection_label": "",
@@ -15,6 +36,7 @@
         },
         "057b8285-9ffe-472f-aaf1-72e3d4ec07e2": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "bath-easter-basket-fillers",
             "collection_label": "",
@@ -25,6 +47,7 @@
         },
         "9d3ce9f0-39c6-480b-8e1c-d9d3d18bba3b": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "baby-and-toddler-easter-basket-fillers",
             "collection_label": "",
@@ -35,6 +58,7 @@
         },
         "ea466d35-5763-4205-a677-5cfd93c73560": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "tween-and-teen-girl-easter-basket-fillers",
             "collection_label": "",
@@ -72,28 +96,6 @@
             "collection_label": "",
             "mobile_collection_label": "",
             "subheading": "These timeless will ring true for all seasons",
-            "cta": "SHOP NOW"
-          }
-        },
-        "703316fb-d81b-4bcf-bc23-e519f200c5f1": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "bee-happy-collection",
-            "collection_label": "Bee Happy Collection",
-            "mobile_collection_label": "",
-            "subheading": "All our charming bee finds in one place",
-            "cta": "SHOP NOW"
-          }
-        },
-        "5069ff93-6926-401f-ac62-61b545016740": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "casual-cozy-collection",
-            "collection_label": "",
-            "mobile_collection_label": "",
-            "subheading": "Cozy and Casual Living Accents",
             "cta": "SHOP NOW"
           }
         },
@@ -394,6 +396,8 @@
         }
       },
       "block_order": [
+        "703316fb-d81b-4bcf-bc23-e519f200c5f1",
+        "5069ff93-6926-401f-ac62-61b545016740",
         "788105b4-7ae6-4a0f-ab1d-e86629da9608",
         "057b8285-9ffe-472f-aaf1-72e3d4ec07e2",
         "9d3ce9f0-39c6-480b-8e1c-d9d3d18bba3b",
@@ -401,8 +405,6 @@
         "10dcd4d1-c893-4bc0-94d2-7fa04dec9df4",
         "ef72841c-2adc-4ae5-b6e3-ef4af4a4313b",
         "950bacd0-604e-4305-a308-5d516ada3a19",
-        "703316fb-d81b-4bcf-bc23-e519f200c5f1",
-        "5069ff93-6926-401f-ac62-61b545016740",
         "5b1ef889-901b-4008-a336-948655583d27",
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
         "2bdc8b13-500e-4208-a662-aba3afa2bc1c",
