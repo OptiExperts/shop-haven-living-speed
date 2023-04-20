@@ -283,6 +283,33 @@
       "static-slideshow": {
         "type": "static-slideshow",
         "blocks": {
+          "eb37ac98-0b28-458d-bf2a-2fc06121dece": {
+            "type": "slide",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_24.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_66.png",
+              "title": "",
+              "text": "",
+              "color": "#ffffff",
+              "link": "shopify:\/\/collections\/musee",
+              "text_alignment": "center",
+              "button_one_label": "",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "button_three_label": "",
+              "button_three_link": "",
+              "button_three_style": "primary",
+              "button_four_label": "",
+              "button_four_link": "",
+              "button_four_style": "primary",
+              "overlay_style": "none",
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
           "3e6da9c9-9d1e-4037-8a60-731b9daa436a": {
             "type": "slide",
             "disabled": true,
@@ -478,44 +505,17 @@
               "overlay_color": "#000000",
               "overlay_opacity": 50
             }
-          },
-          "eb37ac98-0b28-458d-bf2a-2fc06121dece": {
-            "type": "slide",
-            "settings": {
-              "background_image": "shopify:\/\/shop_images\/DESKTOP_24.png",
-              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_66.png",
-              "title": "",
-              "text": "",
-              "color": "#ffffff",
-              "link": "shopify:\/\/collections\/musee",
-              "text_alignment": "center",
-              "button_one_label": "",
-              "button_one_link": "",
-              "button_one_style": "primary",
-              "button_two_label": "",
-              "button_two_link": "",
-              "button_two_style": "primary",
-              "button_three_label": "",
-              "button_three_link": "",
-              "button_three_style": "primary",
-              "button_four_label": "",
-              "button_four_link": "",
-              "button_four_style": "primary",
-              "overlay_style": "none",
-              "overlay_color": "#000000",
-              "overlay_opacity": 50
-            }
           }
         },
         "block_order": [
+          "eb37ac98-0b28-458d-bf2a-2fc06121dece",
           "3e6da9c9-9d1e-4037-8a60-731b9daa436a",
           "static-slideshow-0",
           "e405a1f5-00e1-46c4-9a14-1d25b9776948",
           "e816ef37-721c-4c35-bbd6-6742ab684310",
           "e1966b60-4b63-4b2b-801c-4ad58f4f87cb",
           "a4184743-3340-44e0-9152-dd4d31dab0f8",
-          "462bac7f-55a0-464a-8187-f072c544d188",
-          "eb37ac98-0b28-458d-bf2a-2fc06121dece"
+          "462bac7f-55a0-464a-8187-f072c544d188"
         ],
         "settings": {
           "show_slideshow": true,

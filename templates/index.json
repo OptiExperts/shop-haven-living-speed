@@ -3,6 +3,17 @@
     "1644937099874ed37b": {
       "type": "dynamic-collection-list",
       "blocks": {
+        "ccbc32b1-ecaf-459e-917a-6bc778a56516": {
+          "type": "collection",
+          "settings": {
+            "collection": "spring-florals",
+            "image": "shopify:\/\/shop_images\/f11f2e84cb390c429f3d96b2f8de1237.jpg",
+            "collection_label": "The Flower Shop",
+            "mobile_collection_label": "The Flower Shop",
+            "subheading": "Stems, Blooms, all in Spring!",
+            "cta": "SHOP NOW"
+          }
+        },
         "703316fb-d81b-4bcf-bc23-e519f200c5f1": {
           "type": "collection",
           "settings": {
@@ -130,17 +141,6 @@
             "collection_label": "",
             "mobile_collection_label": "",
             "subheading": "Inspiration to decorate for all seasons all year long!",
-            "cta": "SHOP NOW"
-          }
-        },
-        "ccbc32b1-ecaf-459e-917a-6bc778a56516": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "heart-of-gold-collection",
-            "collection_label": "",
-            "mobile_collection_label": "",
-            "subheading": "Beautiful touches of blush and gold at your fingertips.",
             "cta": "SHOP NOW"
           }
         },
@@ -393,9 +393,20 @@
             "subheading": "Bags, wallets and purses to fit all the things for a day trip or just running errands",
             "cta": "SHOP NOW"
           }
+        },
+        "83b0bc39-96e0-45d6-a90e-e351f6913f1a": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "collection_label": "",
+            "mobile_collection_label": "",
+            "subheading": "",
+            "cta": ""
+          }
         }
       },
       "block_order": [
+        "ccbc32b1-ecaf-459e-917a-6bc778a56516",
         "703316fb-d81b-4bcf-bc23-e519f200c5f1",
         "5069ff93-6926-401f-ac62-61b545016740",
         "788105b4-7ae6-4a0f-ab1d-e86629da9608",
@@ -408,7 +419,6 @@
         "5b1ef889-901b-4008-a336-948655583d27",
         "a049214b-d9c7-45b0-9575-d0275f1b9ab9",
         "2bdc8b13-500e-4208-a662-aba3afa2bc1c",
-        "ccbc32b1-ecaf-459e-917a-6bc778a56516",
         "dc7a71db-bddc-4e8b-9f9b-2a7a070b7682",
         "16449370993ff6d238-0",
         "22146223-ab13-4036-aa4e-a972c66aa2d3",
@@ -430,7 +440,8 @@
         "39e59c3f-bdfc-4b94-91c4-7d9811769d71",
         "4c57d0f7-f3a5-4220-bf0a-32a8c94d7f37",
         "31e9ae39-881b-49f9-a6c9-4b04a64f2877",
-        "84309de9-d5f9-432e-bf97-89bdce8f5da1"
+        "84309de9-d5f9-432e-bf97-89bdce8f5da1",
+        "83b0bc39-96e0-45d6-a90e-e351f6913f1a"
       ],
       "settings": {
         "title": "",
