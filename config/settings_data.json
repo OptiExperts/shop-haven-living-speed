@@ -222,7 +222,7 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "Free Shipping on orders over $75",
+          "announcement_text": "25% off Mother's Day Sale Sitewide through 5\/13!    Free Shipping on orders over $75",
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
@@ -286,8 +286,8 @@
           "eb37ac98-0b28-458d-bf2a-2fc06121dece": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/DESKTOP_24.png",
-              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_66.png",
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_25.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_79.png",
               "title": "",
               "text": "",
               "color": "#ffffff",
