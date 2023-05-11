@@ -512,7 +512,7 @@
             "settings": {
               "title": "",
               "text": "",
-              "color": "#FFFFFF",
+              "color": "#ffffff",
               "link": "",
               "text_alignment": "center",
               "button_one_label": "",
@@ -1799,5 +1799,11 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".product-single__photo {max-width: 100%; }",
+      ".product-single__photos {max-width: 100%; }"
+    ]
   }
 }
