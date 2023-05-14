@@ -222,7 +222,7 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "25% off Mother's Day Sale Sitewide through 5\/13!    Free Shipping on orders over $75",
+          "announcement_text": "Free Shipping on orders over $75",
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
@@ -1802,8 +1802,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".product-single__photo {max-width: 100%; }",
-      ".product-single__photos {max-width: 100%; }"
+      ".product-single__photo {max-width: 100%;}",
+      ".product-single__photos {max-width: 100%;}"
     ]
   }
 }
