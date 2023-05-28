@@ -286,12 +286,12 @@
           "eb37ac98-0b28-458d-bf2a-2fc06121dece": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/Screenshot_2023-05-25_092006.png",
-              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_90.png",
+              "background_image": "shopify:\/\/shop_images\/DESKTOP_32.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_88.png",
               "title": "",
               "text": "",
               "color": "#ffffff",
-              "link": "",
+              "link": "shopify:\/\/collections\/new-in-this-week",
               "text_alignment": "center",
               "button_one_label": "",
               "button_one_link": "",
