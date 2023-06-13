@@ -468,61 +468,13 @@
         "mobile_collection_max_width": 80
       }
     },
-    "1645213842a28c8de8": {
-      "type": "dynamic-image-with-text",
-      "blocks": {
-        "1645213842cdc134a8-0": {
-          "type": "image_with_text",
-          "settings": {
-            "img_desktop": "shopify:\/\/shop_images\/StorefrontGreenKitchenDisplay.jpg",
-            "img_position_desktop": "left",
-            "img_width_desktop": 45,
-            "img_height_desktop": "custom",
-            "custom_height_desktop": 425,
-            "img_position_mobile": "top",
-            "img_height_mobile": "natural",
-            "custom_height_mobile": 500,
-            "content_background_color": "#ffffff",
-            "preheading": "Welcome Home to",
-            "preheading_color": "#80a44d",
-            "heading": "HAVEN LIVING",
-            "heading_color": "#4d4d4d",
-            "heading_size": "large",
-            "text_content": "<p>Every home should be a safe haven. At Haven Living, we want you to be able to create a beautiful home where your family and friends feel welcome and loved everyday. A place where they belong. <\/p>",
-            "text_content_color": "#4d4d4d",
-            "button_link": "shopify:\/\/pages\/about-us",
-            "button_text": "READ OUR STORY →",
-            "button_style": "signpost",
-            "signpost_color": "#37515f",
-            "block_link": false,
-            "text_vertical_position": "middle",
-            "text_alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1645213842cdc134a8-0"
-      ],
-      "settings": {
-        "heading": "",
-        "subheading": "<p><\/p>",
-        "background_color": "#f7f6f1",
-        "heading_color": "#4d4d4d",
-        "subheading_color": "#4d4d4d",
-        "section_spacing_top_desktop": 50,
-        "section_spacing_bottom_desktop": 10,
-        "section_spacing_top_mobile": 36,
-        "section_spacing_bottom_mobile": 36,
-        "content_spacing": 0
-      }
-    },
     "1644937860f3b462ce": {
       "type": "dynamic-testimonials",
       "blocks": {
         "164493786015248e13-0": {
           "type": "testimonial",
           "settings": {
-            "quote": "<p>“I am always greeted when I come into the store, everything is always so well put together. 10’s across the board!”<\/p>",
+            "quote": "<p>\"I am always greeted when I come into the store, everything is always so well put together. 10’s across the board!\"<\/p>",
             "show_quotations": false,
             "citation": "<p>DARCI SEVERINSEN<\/p>"
           }
@@ -547,7 +499,7 @@
           "type": "testimonial",
           "settings": {
             "quote": "<p>“I love this store. I brought in a friend a couple weeks ago while she was visiting from out of town. Although our styles are very different, I knew she would find something she would love. We bought similar things, as well as completely different things. The girls working were very warm and welcoming.”<\/p>",
-            "show_quotations": true,
+            "show_quotations": false,
             "citation": "<p>AMBER FETTERS<\/p>"
           }
         }
@@ -559,16 +511,64 @@
         "404189aa-3f24-4671-a0ae-23d81d9d9b73"
       ],
       "settings": {
-        "title": "",
-        "subtitle": "<p><\/p>",
+        "title": "WHAT MAKES US THE PLACE TO COME?",
+        "subtitle": "",
         "title_color": "#4d4d4d",
         "subtitle_color": "#4d4d4d",
         "blockquote_color": "#ffffff",
         "blockquote_citation_color": "#ffffff",
         "background_color": "#37515f",
         "testimonial_background_color": "",
-        "spacing_desktop": 60,
-        "spacing_mobile": 36
+        "spacing_desktop": 66,
+        "spacing_mobile": 32
+      }
+    },
+    "1645213842a28c8de8": {
+      "type": "dynamic-image-with-text",
+      "blocks": {
+        "1645213842cdc134a8-0": {
+          "type": "image_with_text",
+          "settings": {
+            "img_desktop": "shopify:\/\/shop_images\/StorefrontGreenKitchenDisplay.jpg",
+            "img_position_desktop": "left",
+            "img_width_desktop": 37,
+            "img_height_desktop": "natural",
+            "custom_height_desktop": 425,
+            "img_position_mobile": "top",
+            "img_height_mobile": "natural",
+            "custom_height_mobile": 500,
+            "content_background_color": "#ffffff",
+            "preheading": "Welcome Home to",
+            "preheading_color": "#80a44d",
+            "heading": "HAVEN LIVING",
+            "heading_color": "#4d4d4d",
+            "heading_size": "large",
+            "text_content": "<p>When it comes to your home, ensuring a secure and comforting environment is paramount. At Haven, we prioritize your ability to craft a stunning home that exudes warmth and hospitality, making your loved ones and friends feel cherished each day. We want to help you create a sense of belonging in every corner of your home.<\/p>",
+            "text_content_color": "#4d4d4d",
+            "button_link": "shopify:\/\/pages\/about-us",
+            "button_text": "READ OUR STORY →",
+            "button_style": "signpost",
+            "signpost_color": "#37515f",
+            "block_link": false,
+            "text_vertical_position": "middle",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1645213842cdc134a8-0"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "background_color": "#f7f6f1",
+        "heading_color": "#4d4d4d",
+        "subheading_color": "#4d4d4d",
+        "section_spacing_top_desktop": 50,
+        "section_spacing_bottom_desktop": 10,
+        "section_spacing_top_mobile": 36,
+        "section_spacing_bottom_mobile": 36,
+        "content_spacing": 0
       }
     },
     "1645738044ccbef772": {
@@ -586,8 +586,8 @@
   },
   "order": [
     "1644937099874ed37b",
-    "1645213842a28c8de8",
     "1644937860f3b462ce",
+    "1645213842a28c8de8",
     "1645738044ccbef772"
   ]
 }
