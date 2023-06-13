@@ -558,6 +558,7 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Home & Garden",
+              "image_1": "shopify:\/\/shop_images\/EAW00135_main-04_b2544376-eb7f-4e57-ab90-973a2ed9cc5f.jpg",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -572,7 +573,7 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Kitchen",
-              "image_1": "shopify:\/\/shop_images\/da9619a.jpg",
+              "image_1": "shopify:\/\/shop_images\/ScreenShot2022-10-13at9.47.33PM_e237ed12-a82a-41dc-8cec-a045f3b99c56.png",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -587,7 +588,7 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Clothing",
-              "image_1": "shopify:\/\/shop_images\/collection-1.jpg",
+              "image_1": "shopify:\/\/shop_images\/35165709120b3dee4987a928d029ecfb_de30603c-ebe3-4ac2-b41e-cb493cf3ddbd.jpg",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -602,9 +603,9 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Accessories",
-              "image_1": "shopify:\/\/shop_images\/br548andgb548-1400x.jpg",
+              "image_1": "shopify:\/\/shop_images\/11024_3_5000x_png_90f9744c-e7ce-4f46-ab33-956a0f7922c4.webp",
               "text_1": "",
-              "link_1": "shopify:\/\/products\/gold-drift-cuff-bracelet",
+              "link_1": "",
               "position_1": "first",
               "size_1": "small",
               "text_2": "",
@@ -617,7 +618,7 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Kid & Baby",
-              "image_1": "shopify:\/\/shop_images\/image-0d77d8c2-f7f8-4995-8b3f-610f8ea108c5-1080x.jpg",
+              "image_1": "shopify:\/\/shop_images\/b9c0b672c96eacaa9762583aeed38afd_97a933db-1be8-4522-ad42-65d995dc17f6.jpg",
               "text_1": "",
               "link_1": "shopify:\/\/products\/milan-knit-button-cardigan",
               "position_1": "first",
@@ -632,6 +633,7 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Gifts",
+              "image_1": "shopify:\/\/shop_images\/steamers_2_57ca78c1-d173-4aae-965d-5dad76ca1e02.webp",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -646,6 +648,7 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Seasonal",
+              "image_1": "shopify:\/\/shop_images\/Blue-Stars-on-White_79503e02-00e3-4bfc-b553-25240c8e7f08.jpg",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
