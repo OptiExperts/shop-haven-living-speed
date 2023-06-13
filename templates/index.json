@@ -531,7 +531,7 @@
           "settings": {
             "img_desktop": "shopify:\/\/shop_images\/StorefrontGreenKitchenDisplay.jpg",
             "img_position_desktop": "left",
-            "img_width_desktop": 37,
+            "img_width_desktop": 31,
             "img_height_desktop": "natural",
             "custom_height_desktop": 425,
             "img_position_mobile": "top",
