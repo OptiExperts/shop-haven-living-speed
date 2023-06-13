@@ -7,7 +7,7 @@
           "type": "collection",
           "settings": {
             "collection": "moms-favorites",
-            "collection_label": "",
+            "collection_label": "Mom's Favorites",
             "mobile_collection_label": "",
             "subheading": "Shop our most popular gifts for Mom!",
             "cta": "SHOP NOW"
@@ -444,7 +444,7 @@
         "84309de9-d5f9-432e-bf97-89bdce8f5da1"
       ],
       "settings": {
-        "title": "",
+        "title": "SHOP BY COLLECTION",
         "subheading": "",
         "heading_color": "#49443e",
         "subheading_color": "#000000",
@@ -457,13 +457,13 @@
         "image_shape": "square",
         "label_style": "label-style-heading",
         "text_alignment": "center",
-        "desktop_collections_per_row": 2,
+        "desktop_collections_per_row": 3,
         "display_desktop_collections": "2",
         "desktop_collection_width": "desktop-full-width",
         "layout_collection_max_width": 1600,
         "desktop_collection_max_width": 450,
         "mobile_collections_per_row": 1,
-        "display_mobile_collections": "0",
+        "display_mobile_collections": "4",
         "mobile_collection_width": "mobile-full-width",
         "mobile_collection_max_width": 80
       }
