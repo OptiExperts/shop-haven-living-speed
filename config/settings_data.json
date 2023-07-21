@@ -222,7 +222,7 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "We're Moving! 30% OFF everything! Discount at checkout.",
+          "announcement_text": "We're Moving! 30% OFF everything! Automatic discount at checkout.",
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
