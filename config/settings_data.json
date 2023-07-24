@@ -312,6 +312,7 @@
           },
           "3e6da9c9-9d1e-4037-8a60-731b9daa436a": {
             "type": "slide",
+            "disabled": true,
             "settings": {
               "background_image": "shopify:\/\/shop_images\/DESKTOP_43.png",
               "mobile_background_image": "shopify:\/\/shop_images\/MOBILE_-_2023-07-21T093657.980.png",
