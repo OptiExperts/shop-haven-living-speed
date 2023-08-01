@@ -222,7 +222,7 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "",
+          "announcement_text": "Free in-store pickup available when you shop online!",
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
