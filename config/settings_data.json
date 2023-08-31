@@ -129,6 +129,7 @@
     "pt_force_dropdown": false,
     "pt_float_filters": "false",
     "pt_refine_text": "Filter by",
+    "pt_sort_created_desc_text": "Newest First",
     "color_pt_header_border": "rgba(0,0,0,0)",
     "color_pt_header_top_border": "#d9d9d9",
     "pt_links_font_override": true,
