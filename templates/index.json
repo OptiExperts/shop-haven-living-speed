@@ -6,11 +6,10 @@
         "788105b4-7ae6-4a0f-ab1d-e86629da9608": {
           "type": "collection",
           "settings": {
-            "collection": "60-off-sale",
-            "image": "shopify:\/\/shop_images\/81jiJlYw32L._AC_SX679.jpg",
+            "collection": "trick-or-treat-treasures",
             "collection_label": "",
             "mobile_collection_label": "",
-            "subheading": "Baskets, Trays, Lanterns and Pots",
+            "subheading": "Enchanting treasures to bring a little chill to your home",
             "cta": "SHOP NOW"
           }
         },
@@ -31,7 +30,7 @@
             "collection": "casual-cozy-collection",
             "collection_label": "",
             "mobile_collection_label": "",
-            "subheading": "Cozy and Casual Living Accents",
+            "subheading": "Wrap yourself in our Cozy and Casual Collection",
             "cta": "SHOP NOW"
           }
         },
@@ -52,8 +51,8 @@
             "collection": "golden-days-of-fall",
             "collection_label": "",
             "mobile_collection_label": "",
-            "subheading": "Your ticket to an autumn wonderland in your home!",
-            "cta": ""
+            "subheading": "Your ticket to an autumn wonderland in your home",
+            "cta": "SHOP NOW"
           }
         }
       },
@@ -66,7 +65,7 @@
       ],
       "settings": {
         "title": "SHOP BY COLLECTION",
-        "subheading": "<p>Curated collections to make shopping easy, because we know you don’t have time for more on your to do lists.<\/p>",
+        "subheading": "<p><em>Shopping made easy with our curated collections<\/em><\/p>",
         "heading_color": "#49443e",
         "subheading_color": "#000000",
         "background_color": "#f7f6f1",
