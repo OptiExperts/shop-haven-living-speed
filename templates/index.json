@@ -137,7 +137,7 @@
         "subtitle_color": "#4d4d4d",
         "blockquote_color": "#ffffff",
         "blockquote_citation_color": "#ffffff",
-        "background_color": "#748068",
+        "background_color": "#37515f",
         "testimonial_background_color": "",
         "spacing_desktop": 66,
         "spacing_mobile": 32
@@ -194,8 +194,8 @@
     "1645738044ccbef772": {
       "type": "instafeed-custom",
       "settings": {
-        "insta_handle": "myhavenliving",
-        "preheading": "@myhavenliving",
+        "insta_handle": "shophavenmidway",
+        "preheading": "@shophavenmidway",
         "title": "Home designer finds, minus the price tag!",
         "text": "",
         "html_area": "",
