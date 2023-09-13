@@ -1,1 +1,102 @@
-{"sections":{"main":{"type":"static-product","blocks":{"title":{"type":"title","settings":{}},"rating":{"type":"rating","settings":{}},"price":{"type":"price","settings":{}},"form":{"type":"form","settings":{}},"share":{"type":"share","disabled":true,"settings":{}},"description":{"type":"description","disabled":true,"settings":{}},"bff25a1a-ce8b-4f04-bdc0-25e53ea07ca3":{"type":"shopify:\/\/apps\/tabs-by-station\/blocks\/product_tabs_block\/19980fb9-f2ca-4ada-ad36-c0364c3318b8","settings":{"start_tab_element":"h4","default_tab":"tab","default_tab_title":"Description","pro_tabs":true,"layout":"vertical","layout_breakpoint":750,"open_first_tab":true,"allow_multiple_open":false,"initialize_tabs":"immediate","custom_scripts":""}}},"block_order":["title","rating","price","form","share","description","bff25a1a-ce8b-4f04-bdc0-25e53ea07ca3"],"settings":{"show_breadcrumbs":true,"layout":"layout--two-col","show_dcb":true,"product_cart_redirect":false,"gallery_aspect_ratio":"tall","gallery_image_crop":true,"gallery_thumbnail_position":"left","gallery_video_autoplay":true,"gallery_video_looping":true,"gallery_hover_zoom":"disabled","gallery_click_to_zoom":"always"}},"recommendations":{"type":"static-product-recommendations","settings":{"show_product_recommendations":true,"product_recommendations_heading":"Related items for you"}},"product-reviews":{"type":"static-product-reviews","settings":{}},"recently-viewed":{"type":"static-recently-viewed","settings":{"enable_recently_viewed_products":false}}},"order":["main","recommendations","product-reviews","recently-viewed"]}
+{
+  "sections": {
+    "main": {
+      "type": "static-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "bff25a1a-ce8b-4f04-bdc0-25e53ea07ca3": {
+          "type": "shopify:\/\/apps\/tabs-studio\/blocks\/product_tabs_block\/19980fb9-f2ca-4ada-ad36-c0364c3318b8",
+          "settings": {
+            "start_tab_element": "h4",
+            "default_tab": "tab",
+            "default_tab_title": "Description",
+            "pro_tabs": true,
+            "layout": "vertical",
+            "layout_breakpoint": 750,
+            "open_first_tab": true,
+            "allow_multiple_open": false,
+            "initialize_tabs": "immediate",
+            "custom_scripts": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "rating",
+        "price",
+        "form",
+        "share",
+        "description",
+        "bff25a1a-ce8b-4f04-bdc0-25e53ea07ca3"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "layout": "layout--two-col",
+        "show_dcb": true,
+        "product_cart_redirect": false,
+        "gallery_aspect_ratio": "tall",
+        "gallery_image_crop": false,
+        "gallery_thumbnail_position": "left",
+        "gallery_video_autoplay": true,
+        "gallery_video_looping": true,
+        "gallery_hover_zoom": "disabled",
+        "gallery_click_to_zoom": "always"
+      }
+    },
+    "recommendations": {
+      "type": "static-product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "Related items for you"
+      }
+    },
+    "product-reviews": {
+      "type": "static-product-reviews",
+      "settings": {
+      }
+    },
+    "recently-viewed": {
+      "type": "static-recently-viewed",
+      "settings": {
+        "enable_recently_viewed_products": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "recommendations",
+    "product-reviews",
+    "recently-viewed"
+  ]
+}
