@@ -228,7 +228,7 @@
           "announcement_text_mobile": "",
           "announcement_link": "",
           "announcement_color": "#ffffff",
-          "announcement_background": "#443f3a"
+          "announcement_background": "#90492c"
         }
       },
       "static-minimal-header": {
@@ -288,8 +288,8 @@
           "eb37ac98-0b28-458d-bf2a-2fc06121dece": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/Desktop_47.png",
-              "mobile_background_image": "shopify:\/\/shop_images\/Mobile_-_2023-09-23T154257.770.png",
+              "background_image": "shopify:\/\/shop_images\/FALL_IS_IN_THE_1.png",
+              "mobile_background_image": "shopify:\/\/shop_images\/Screen_Shot_2023-09-30_at_3.42.04_AM.png",
               "title": "",
               "text": "",
               "color": "#ffffff",
