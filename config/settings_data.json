@@ -106,7 +106,7 @@
     "hide_products_with_noimages": true,
     "product_show_vendor": false,
     "product_option_style": "radio",
-    "product_show_stock_level": "prod-page",
+    "product_show_stock_level": "hidden",
     "product_low_stock_threshold": 1,
     "swatches_enable": false,
     "swatches_product_card_hover": "on-hover",

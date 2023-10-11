@@ -3,19 +3,6 @@
     "main": {
       "type": "static-collection",
       "blocks": {
-        "filter-1": {
-          "type": "filter",
-          "settings": {
-            "filter_option": "tag",
-            "show_product_counts": true,
-            "filter_limit": "999",
-            "filter_position": "above_menus",
-            "filter_style": "tags",
-            "grid_categories": "",
-            "custom_ordered_categories": "",
-            "custom_ordered_tags": ""
-          }
-        },
         "menu-1": {
           "type": "menu",
           "settings": {
@@ -24,7 +11,6 @@
         }
       },
       "block_order": [
-        "filter-1",
         "menu-1"
       ],
       "settings": {
