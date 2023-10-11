@@ -21,7 +21,7 @@
         "sort_by": false,
         "grid_list": false,
         "show_tag": false,
-        "menu_depth_range": 2
+        "menu_depth_range": 1
       }
     },
     "static-recently-viewed": {

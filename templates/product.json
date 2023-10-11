@@ -39,7 +39,7 @@
           "type": "shopify:\/\/apps\/tabs-studio\/blocks\/product_tabs_block\/19980fb9-f2ca-4ada-ad36-c0364c3318b8",
           "settings": {
             "start_tab_element": "h4",
-            "default_tab": "tab",
+            "default_tab": "only",
             "default_tab_title": "Description",
             "pro_tabs": true,
             "layout": "vertical",

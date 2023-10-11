@@ -180,7 +180,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Sign up for 10% off your first purchase!",
-              "text": "<p><\/p>",
+              "text": "",
               "button_style": "primary"
             }
           },
@@ -560,7 +560,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Home & Garden",
-              "image_1": "shopify:\/\/shop_images\/81dbb49ee074be5ace2169a1f2c9b558.png",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -575,7 +574,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Kitchen",
-              "image_1": "shopify:\/\/shop_images\/ScreenShot2022-10-13at9.47.33PM_e237ed12-a82a-41dc-8cec-a045f3b99c56.png",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -590,7 +588,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Clothing",
-              "image_1": "shopify:\/\/shop_images\/35165709120b3dee4987a928d029ecfb_de30603c-ebe3-4ac2-b41e-cb493cf3ddbd.jpg",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -605,7 +602,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Accessories",
-              "image_1": "shopify:\/\/shop_images\/11024_3_5000x_png_90f9744c-e7ce-4f46-ab33-956a0f7922c4.webp",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -620,7 +616,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Kid & Baby",
-              "image_1": "shopify:\/\/shop_images\/b9c0b672c96eacaa9762583aeed38afd_97a933db-1be8-4522-ad42-65d995dc17f6.jpg",
               "text_1": "",
               "link_1": "shopify:\/\/products\/milan-knit-button-cardigan",
               "position_1": "first",
@@ -635,7 +630,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Gifts",
-              "image_1": "shopify:\/\/shop_images\/773f8cb999d1152f2d60e86c68067360.jpg",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -650,7 +644,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Seasonal",
-              "image_1": "shopify:\/\/shop_images\/a643c03a91c7f20194798f314cce881b.jpg",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
