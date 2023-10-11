@@ -684,12 +684,11 @@
           "live_search_content_types": "article,page,product",
           "search_quick_links": "",
           "menu": "products",
-          "small_promo_heading": "Free in-store pickup available!",
+          "small_promo_heading": "",
           "small_promo_text": "",
           "small_promo_text_mobile": "",
           "small_promo_link": "",
           "small_promo_icon": "icon-store",
-          "image": "shopify:\/\/shop_images\/noun-store-1333778.png",
           "color_smallpromo_text": "#000000",
           "color_smallpromo_icon": "#000000"
         }
