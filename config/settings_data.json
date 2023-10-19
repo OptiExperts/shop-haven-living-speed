@@ -551,6 +551,7 @@
             "type": "slide",
             "settings": {
               "background_image": "shopify:\/\/shop_images\/IMG_0081.jpg",
+              "mobile_background_image": "shopify:\/\/shop_images\/Screen_Shot_2023-10-19_at_3.18.06_PM.png",
               "title": "",
               "text": "",
               "color": "#FFFFFF",
