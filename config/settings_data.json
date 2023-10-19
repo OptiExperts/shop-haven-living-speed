@@ -206,13 +206,21 @@
             "settings": {
               "menu": "my-account"
             }
+          },
+          "31543c0f-180f-4ebf-88e8-49d22ce0801d": {
+            "type": "rich_text",
+            "settings": {
+              "title": "Shipping + Returns",
+              "text": "<p><a href=\"https:\/\/shophavenliving.com\/pages\/shipping-and-returns?_pos=1&_sid=17b420023&_ss=r\">See our Shipping Policy…<\/a><\/p><p><a href=\"https:\/\/www.shophavenliving.com\/policies\/refund-policy\">See our Refund Policy...<\/a><\/p>"
+            }
           }
         },
         "block_order": [
           "9ad421cf-1a53-4268-b83e-95c3844454e9",
           "1556673029169",
           "1554840343056",
-          "static-footer-0"
+          "static-footer-0",
+          "31543c0f-180f-4ebf-88e8-49d22ce0801d"
         ],
         "settings": {
           "mobile_alignment": "centered",
