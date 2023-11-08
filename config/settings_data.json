@@ -125,7 +125,7 @@
     "product_grid_show_quickshop": "desktop",
     "social_facebook": "https:\/\/www.facebook.com\/myhavenliving",
     "social_instagram": "https:\/\/www.instagram.com\/shophavenmidway\/",
-    "favicon": "shopify:\/\/shop_images\/fav.jpg",
+    "favicon": "shopify:\/\/shop_images\/H.png",
     "custom_scripts_footer": "$('.qtybox .btnqty').on('click', function(){\n  var qty = parseInt($(this).parent('.qtybox').find('.quantity-input').val());\n  if($(this).hasClass('qtyplus')) {\n    qty++;\n  } else if($(this).hasClass('qtyminus')) {\n    if(qty > 1) {\n      qty--;\n    }\n  }\n  qty = (isNaN(qty))?1:qty;\n  $(this).parent('.qtybox').find('.quantity-input').val(qty);\n});\n\n$('.modal-content').on('click', function(e) {\n  var qtyBox = $(e.target).parent('.qtybox');\n  var qtyInput = qtyBox.find('.quantity-input');\n  var qty = parseInt(qtyInput.val());\n  if($(e.target).hasClass('qtyplus')) {\n    qty++;\n  } else if($(e.target).hasClass('qtyminus')) {\n    if(qty > 1) {\n      qty--;\n    }\n  }\n  qty = (isNaN(qty))?1:qty;\n  qtyInput.val(qty);\n});",
     "pt_show_refine": false,
     "pt_force_dropdown": false,
